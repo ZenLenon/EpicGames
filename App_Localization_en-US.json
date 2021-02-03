@@ -1,0 +1,3967 @@
+{
+  "com.epicgames.error.license": {
+    "comment": "",
+    "source": "Failed to load the Open Source License page, try again later.",
+    "target": "Failed to load the Open Source License page, try again later."
+  },
+  "diesel.kairos.AND": {
+    "comment": "",
+    "source": "Android Device",
+    "target": "Android Device"
+  },
+  "diesel.kairos.IOS": {
+    "comment": "",
+    "source": "iOS Device",
+    "target": "iOS Device"
+  },
+  "diesel.kairos.LNX": {
+    "comment": "",
+    "source": "Linux Machine",
+    "target": "Linux Machine"
+  },
+  "diesel.kairos.MAC": {
+    "comment": "",
+    "source": "Mac Machine",
+    "target": "Mac Machine"
+  },
+  "diesel.kairos.OTHER": {
+    "comment": "",
+    "source": "Other Device",
+    "target": "Other Device"
+  },
+  "diesel.kairos.PSN": {
+    "comment": "",
+    "source": "PS4",
+    "target": "PS4"
+  },
+  "diesel.kairos.SWT": {
+    "comment": "",
+    "source": "Switch",
+    "target": "Switch"
+  },
+  "diesel.kairos.WIN": {
+    "comment": "",
+    "source": "Windows Machine",
+    "target": "Windows Machine"
+  },
+  "diesel.kairos.XBL": {
+    "comment": "",
+    "source": "Xbox One",
+    "target": "Xbox One"
+  },
+  "diesel.kairos.a11y.carousel.return": {
+    "comment": "",
+    "source": "return to friends list",
+    "target": "return to friends list"
+  },
+  "diesel.kairos.a11y.closeModal": {
+    "comment": "",
+    "source": "Close modal",
+    "target": "Close modal"
+  },
+  "diesel.kairos.a11y.fortniteLauncher.close": {
+    "comment": "",
+    "source": "Close launcher",
+    "target": "Close launcher"
+  },
+  "diesel.kairos.a11y.fortniteLauncher.settings": {
+    "comment": "",
+    "source": "Download settings",
+    "target": "Download settings"
+  },
+  "diesel.kairos.a11y.linkExternal": {
+    "comment": "",
+    "source": "external page",
+    "target": "external page"
+  },
+  "diesel.kairos.a11y.mute": {
+    "comment": "",
+    "source": "Mute",
+    "target": "Mute"
+  },
+  "diesel.kairos.a11y.nickname.icon": {
+    "comment": "",
+    "source": "Edit Nickname",
+    "target": "Edit Nickname"
+  },
+  "diesel.kairos.a11y.onBoarding.loading": {
+    "comment": "",
+    "source": "Loading onboarding video",
+    "target": "Loading onboarding video"
+  },
+  "diesel.kairos.a11y.party.busy": {
+    "comment": "",
+    "source": "Chatting Elsewhere",
+    "target": "Chatting Elsewhere"
+  },
+  "diesel.kairos.a11y.party.disconnected": {
+    "comment": "",
+    "source": "Voice Disconnected",
+    "target": "Voice Disconnected"
+  },
+  "diesel.kairos.a11y.party.invited": {
+    "comment": "",
+    "source": "invited you to party",
+    "target": "invited you to party"
+  },
+  "diesel.kairos.a11y.party.leader": {
+    "comment": "",
+    "source": "(party leader)",
+    "target": "(party leader)"
+  },
+  "diesel.kairos.a11y.party.learnMore": {
+    "comment": "",
+    "source": "Learn more",
+    "target": "Learn more"
+  },
+  "diesel.kairos.a11y.party.limitedMembers": {
+    "comment": "",
+    "source": "{0} members",
+    "target": "{0} members"
+  },
+  "diesel.kairos.a11y.party.muted": {
+    "comment": "",
+    "source": "Muted",
+    "target": "Muted"
+  },
+  "diesel.kairos.a11y.party.mutedSelf": {
+    "comment": "",
+    "source": "Mic Muted",
+    "target": "Mic Muted"
+  },
+  "diesel.kairos.a11y.party.noVoice": {
+    "comment": "",
+    "source": "Voice Chat Off",
+    "target": "Voice Chat Off"
+  },
+  "diesel.kairos.a11y.party.platform": {
+    "comment": "",
+    "source": "{0} is on {1}",
+    "target": "{0} is on {1}"
+  },
+  "diesel.kairos.a11y.party.platformChat": {
+    "comment": "",
+    "source": "Chatting Elsewhere",
+    "target": "Chatting Elsewhere"
+  },
+  "diesel.kairos.a11y.party.tapForDetails": {
+    "comment": "",
+    "source": "Tap for details",
+    "target": "Tap for details"
+  },
+  "diesel.kairos.a11y.partyLobby.inviteFriends": {
+    "comment": "",
+    "source": "Invite friends",
+    "target": "Invite friends"
+  },
+  "diesel.kairos.a11y.partyLobby.leave": {
+    "comment": "",
+    "source": "Leave party",
+    "target": "Leave party"
+  },
+  "diesel.kairos.a11y.partyLobby.lock": {
+    "comment": "",
+    "source": "Lock party",
+    "target": "Lock party"
+  },
+  "diesel.kairos.a11y.partyLobby.mic.disable": {
+    "comment": "",
+    "source": "Disable microphone",
+    "target": "Disable microphone"
+  },
+  "diesel.kairos.a11y.partyLobby.mic.enable": {
+    "comment": "",
+    "source": "Enable microphone",
+    "target": "Enable microphone"
+  },
+  "diesel.kairos.a11y.partyLobby.unlock": {
+    "comment": "",
+    "source": "Unlock party",
+    "target": "Unlock party"
+  },
+  "diesel.kairos.a11y.profile.editAvatar": {
+    "comment": "",
+    "source": "open avatar list",
+    "target": "open avatar list"
+  },
+  "diesel.kairos.a11y.search.erase": {
+    "comment": "",
+    "source": "Erase search",
+    "target": "Erase search"
+  },
+  "diesel.kairos.a11y.search.next": {
+    "comment": "",
+    "source": "Next",
+    "target": "Next"
+  },
+  "diesel.kairos.a11y.search.prev": {
+    "comment": "",
+    "source": "Previous",
+    "target": "Previous"
+  },
+  "diesel.kairos.a11y.shareApp": {
+    "comment": "",
+    "source": "Share App Link",
+    "target": "Share App Link"
+  },
+  "diesel.kairos.a11y.unmute": {
+    "comment": "",
+    "source": "Unmute",
+    "target": "Unmute"
+  },
+  "diesel.kairos.addFriends.add": {
+    "comment": "",
+    "source": "Add friends",
+    "target": "Add friends"
+  },
+  "diesel.kairos.addFriends.addText.blocked": {
+    "comment": "",
+    "source": "Blocked",
+    "target": "Blocked"
+  },
+  "diesel.kairos.addFriends.addText.default": {
+    "comment": "",
+    "source": "Request",
+    "target": "Request"
+  },
+  "diesel.kairos.addFriends.addText.friends": {
+    "comment": "",
+    "source": "Friends",
+    "target": "Friends"
+  },
+  "diesel.kairos.addFriends.addText.ignore": {
+    "comment": "",
+    "source": "Ignore",
+    "target": "Ignore"
+  },
+  "diesel.kairos.addFriends.addText.invited": {
+    "comment": "",
+    "source": "Accept",
+    "target": "Accept"
+  },
+  "diesel.kairos.addFriends.addText.sent": {
+    "comment": "",
+    "source": "Requested",
+    "target": "Requested"
+  },
+  "diesel.kairos.addFriends.alias": {
+    "comment": "",
+    "source": "{0} on {1}",
+    "target": "{0} on {1}"
+  },
+  "diesel.kairos.addFriends.connectButtons.facebook": {
+    "comment": "",
+    "source": "Find friends from Facebook!",
+    "target": "Find friends from Facebook!"
+  },
+  "diesel.kairos.addFriends.connectButtons.steam": {
+    "comment": "",
+    "source": "Find friends from Steam!",
+    "target": "Find friends from Steam!"
+  },
+  "diesel.kairos.addFriends.connectButtons.vk": {
+    "comment": "",
+    "source": "Find friends from VK!",
+    "target": "Find friends from VK!"
+  },
+  "diesel.kairos.addFriends.empty": {
+    "comment": "",
+    "source": "You don't have pending requests or friend suggestions",
+    "target": "You don't have pending requests or friend suggestions"
+  },
+  "diesel.kairos.addFriends.error": {
+    "comment": "",
+    "source": "Sorry, something went wrong",
+    "target": "Sorry, something went wrong"
+  },
+  "diesel.kairos.addFriends.find": {
+    "comment": "",
+    "source": "Find more friends to party with",
+    "target": "Find more friends to party with"
+  },
+  "diesel.kairos.addFriends.noResults": {
+    "comment": "",
+    "source": "Sorry, no results.",
+    "target": "Sorry, no results."
+  },
+  "diesel.kairos.addFriends.pendingInvitations.hideRequests": {
+    "comment": "",
+    "source": "Hide requests",
+    "target": "Hide requests"
+  },
+  "diesel.kairos.addFriends.pendingInvitations.multiple": {
+    "comment": "",
+    "source": "{0} Friend Requests",
+    "target": "{0} Friend Requests"
+  },
+  "diesel.kairos.addFriends.pendingInvitations.single": {
+    "comment": "",
+    "source": "{0} Friend Request",
+    "target": "{0} Friend Request"
+  },
+  "diesel.kairos.addFriends.pendingInvitations.viewRequests": {
+    "comment": "",
+    "source": "View all requests",
+    "target": "View all requests"
+  },
+  "diesel.kairos.addFriends.placeholder": {
+    "comment": "",
+    "source": "Search by display name or email",
+    "target": "Search by display name or email"
+  },
+  "diesel.kairos.addFriends.placeholder.small": {
+    "comment": "",
+    "source": "Display name, email",
+    "target": "Display name, email"
+  },
+  "diesel.kairos.addFriends.psnPlayers": {
+    "comment": "",
+    "source": "PSN Players",
+    "target": "PSN Players"
+  },
+  "diesel.kairos.addFriends.search.closeText": {
+    "comment": "",
+    "source": "Cancel",
+    "target": "Cancel"
+  },
+  "diesel.kairos.addFriends.search.result.emptyText": {
+    "comment": "",
+    "source": "Sorry, we couldn't find that player",
+    "target": "Sorry, we couldn't find that player"
+  },
+  "diesel.kairos.addFriends.search.result.title": {
+    "comment": "",
+    "source": "Search Result",
+    "target": "Search Result"
+  },
+  "diesel.kairos.addFriends.search.title": {
+    "comment": "",
+    "source": "Search...",
+    "target": "Search..."
+  },
+  "diesel.kairos.addFriends.searching": {
+    "comment": "",
+    "source": "Searching...",
+    "target": "Searching..."
+  },
+  "diesel.kairos.addFriends.suggestedFriendDescription.facebook": {
+    "comment": "",
+    "source": "Friends on Facebook",
+    "target": "Friends on Facebook"
+  },
+  "diesel.kairos.addFriends.suggestedFriendDescription.steam": {
+    "comment": "",
+    "source": "Friends on Steam",
+    "target": "Friends on Steam"
+  },
+  "diesel.kairos.addFriends.suggestedFriendDescription.vk": {
+    "comment": "",
+    "source": "Friends on VK",
+    "target": "Friends on VK"
+  },
+  "diesel.kairos.addFriends.xblPlayers": {
+    "comment": "",
+    "source": "XBOX Players",
+    "target": "XBOX Players"
+  },
+  "diesel.kairos.addFriends.you": {
+    "comment": "",
+    "source": "That's you",
+    "target": "That's you"
+  },
+  "diesel.kairos.android.download.foregroundPrompt.confirm": {
+    "comment": "",
+    "source": "OK, Got It",
+    "target": "OK, Got It"
+  },
+  "diesel.kairos.android.download.foregroundPrompt.subTitle": {
+    "comment": "",
+    "source": "Psst... You’ll need to keep the Fortnite app open on your phone while it installs.",
+    "target": "Psst... You’ll need to keep the Fortnite app open on your phone while it installs."
+  },
+  "diesel.kairos.android.download.foregroundPrompt.title": {
+    "comment": "",
+    "source": "Don't Go Anywhere!",
+    "target": "Don't Go Anywhere!"
+  },
+  "diesel.kairos.android.download.outofdate.desc": {
+    "comment": "",
+    "source": "A Fortnite game client update from the app store is required",
+    "target": "A Fortnite game client update from the app store is required"
+  },
+  "diesel.kairos.android.download.outofdate.open": {
+    "comment": "",
+    "source": "Open app store",
+    "target": "Open app store"
+  },
+  "diesel.kairos.app.share.body": {
+    "comment": "",
+    "source": "Let’s party up. Get Fortnite on your mobile device so we can chat.  https://fortnite.com/download",
+    "target": "Let’s party up. Get Fortnite on your mobile device so we can chat.  https://fortnite.com/download"
+  },
+  "diesel.kairos.app.share.dialogtitle": {
+    "comment": "",
+    "source": "Share Fortnite",
+    "target": "Share Fortnite"
+  },
+  "diesel.kairos.app.share.subject": {
+    "comment": "",
+    "source": "Fortnite - Party Up On The Go",
+    "target": "Fortnite - Party Up On The Go"
+  },
+  "diesel.kairos.app.share.url": {
+    "comment": "",
+    "source": "https://fortnite.com/download",
+    "target": "https://fortnite.com/download"
+  },
+  "diesel.kairos.app.warning.fullscreen.lightSwitch": {
+    "comment": "",
+    "source": "Party Hub is temporarily unavailable.",
+    "target": "Party Hub is temporarily unavailable."
+  },
+  "diesel.kairos.app.warning.lightSwitch": {
+    "comment": "",
+    "source": "Fortnite Party Hub is temporarily unavailable",
+    "target": "Fortnite Party Hub is temporarily unavailable"
+  },
+  "diesel.kairos.app.warning.socialban.communityRules": {
+    "comment": "",
+    "source": "Community Rules",
+    "target": "Community Rules"
+  },
+  "diesel.kairos.app.warning.socialban.fullscreen.title": {
+    "comment": "",
+    "source": "You’re Banned",
+    "target": "You’re Banned"
+  },
+  "diesel.kairos.app.warning.socialban.helpText": {
+    "comment": "",
+    "source": "Please review our {0} to understand how to prevent this from happening again.",
+    "target": "Please review our {0} to understand how to prevent this from happening again."
+  },
+  "diesel.kairos.app.warning.socialban.title": {
+    "comment": "",
+    "source": "Your behavior has resulted in a ban (expires {0}).",
+    "target": "Your behavior has resulted in a ban (expires {0})."
+  },
+  "diesel.kairos.app.warning.socialban.titlePermanent": {
+    "comment": "",
+    "source": "Your behavior has resulted in a ban.",
+    "target": "Your behavior has resulted in a ban."
+  },
+  "diesel.kairos.app.warning.voice": {
+    "comment": "",
+    "source": "Party Hub is disabled due to parental controls.",
+    "target": "Party Hub is disabled due to parental controls."
+  },
+  "diesel.kairos.app.warning.voice.helpText": {
+    "comment": "",
+    "source": "You can change these in your game settings.",
+    "target": "You can change these in your game settings."
+  },
+  "diesel.kairos.app.warning.voice.title": {
+    "comment": "",
+    "source": "Party Hub is Disabled Due to Parental Controls",
+    "target": "Party Hub is Disabled Due to Parental Controls"
+  },
+  "diesel.kairos.asyncChat.typeSomething": {
+    "comment": "",
+    "source": "Type something...",
+    "target": "Type something..."
+  },
+  "diesel.kairos.asyncChat.unsupported": {
+    "comment": "",
+    "source": "This message type is unsupported",
+    "target": "This message type is unsupported"
+  },
+  "diesel.kairos.carousel.findFriends": {
+    "comment": "",
+    "source": "Find friends to party with",
+    "target": "Find friends to party with"
+  },
+  "diesel.kairos.carousel.playerOnline": {
+    "comment": "",
+    "source": "{0} player online",
+    "target": "{0} player online"
+  },
+  "diesel.kairos.carousel.playersOnline": {
+    "comment": "",
+    "source": "{0} players online",
+    "target": "{0} players online"
+  },
+  "diesel.kairos.channels.detail.error": {
+    "comment": "",
+    "source": "Sorry, there was a problem loading your conversation",
+    "target": "Sorry, there was a problem loading your conversation"
+  },
+  "diesel.kairos.channels.summary.error": {
+    "comment": "",
+    "source": "Failed to load channels summary.",
+    "target": "Failed to load channels summary."
+  },
+  "diesel.kairos.comments.multiple": {
+    "comment": "",
+    "source": "There are {0} comments",
+    "target": "There are {0} comments"
+  },
+  "diesel.kairos.comments.single": {
+    "comment": "",
+    "source": "There is {0} comment",
+    "target": "There is {0} comment"
+  },
+  "diesel.kairos.debugDownload.title": {
+    "comment": "",
+    "source": "Debug Download Menu",
+    "target": "Debug Download Menu"
+  },
+  "diesel.kairos.debugMenu.errorBoundary": {
+    "comment": "",
+    "source": "Error boundary",
+    "target": "Error boundary"
+  },
+  "diesel.kairos.debugMenu.login": {
+    "comment": "",
+    "source": "Login",
+    "target": "Login"
+  },
+  "diesel.kairos.debugMenu.loginBanned": {
+    "comment": "",
+    "source": "Login Banned",
+    "target": "Login Banned"
+  },
+  "diesel.kairos.debugMenu.loginFailed": {
+    "comment": "",
+    "source": "Login failed",
+    "target": "Login failed"
+  },
+  "diesel.kairos.debugMenu.loginLoading": {
+    "comment": "",
+    "source": "Login loading",
+    "target": "Login loading"
+  },
+  "diesel.kairos.debugMenu.logout": {
+    "comment": "",
+    "source": "Logout",
+    "target": "Logout"
+  },
+  "diesel.kairos.debugMenu.maintenanceScreen": {
+    "comment": "",
+    "source": "Maintenance screen",
+    "target": "Maintenance screen"
+  },
+  "diesel.kairos.debugMenu.noConnectionScreen": {
+    "comment": "",
+    "source": "No connection screen",
+    "target": "No connection screen"
+  },
+  "diesel.kairos.debugMenu.title": {
+    "comment": "",
+    "source": "Debug Menu",
+    "target": "Debug Menu"
+  },
+  "diesel.kairos.download.cancelDownload": {
+    "comment": "",
+    "source": "Cancel install?",
+    "target": "Cancel install?"
+  },
+  "diesel.kairos.download.cancelDownload.confirm": {
+    "comment": "",
+    "source": "Cancel Download?",
+    "target": "Cancel Download?"
+  },
+  "diesel.kairos.download.cancelDownload.continueDownload": {
+    "comment": "",
+    "source": "Continue Installing",
+    "target": "Continue Installing"
+  },
+  "diesel.kairos.download.cancelDownload.subtitle": {
+    "comment": "",
+    "source": "You will lose any download progress you have made so far.",
+    "target": "You will lose any download progress you have made so far."
+  },
+  "diesel.kairos.download.cancelUpdate": {
+    "comment": "",
+    "source": "Cancel update?",
+    "target": "Cancel update?"
+  },
+  "diesel.kairos.download.foregroundPrompt.confirm": {
+    "comment": "",
+    "source": "OK, Got It",
+    "target": "OK, Got It"
+  },
+  "diesel.kairos.download.foregroundPrompt.subTitle": {
+    "comment": "",
+    "source": "You can use other apps while Fortnite is downloading, but make sure to come back when it's done so we can finish the last step of the process.",
+    "target": "You can use other apps while Fortnite is downloading, but make sure to come back when it's done so we can finish the last step of the process."
+  },
+  "diesel.kairos.download.foregroundPrompt.title": {
+    "comment": "",
+    "source": "Be Back Soon!",
+    "target": "Be Back Soon!"
+  },
+  "diesel.kairos.download.hires.downloadFailed1": {
+    "comment": "",
+    "source": "Additional Assets",
+    "target": "Additional Assets"
+  },
+  "diesel.kairos.download.hires.downloadFailed2": {
+    "comment": "",
+    "source": "Download Failed",
+    "target": "Download Failed"
+  },
+  "diesel.kairos.download.hires.downloadPaused1": {
+    "comment": "",
+    "source": "Additional Assets",
+    "target": "Additional Assets"
+  },
+  "diesel.kairos.download.hires.downloadPaused2": {
+    "comment": "",
+    "source": "Download Paused!",
+    "target": "Download Paused!"
+  },
+  "diesel.kairos.download.hires.downloadRetry": {
+    "comment": "",
+    "source": "Retry",
+    "target": "Retry"
+  },
+  "diesel.kairos.download.hires.downloading": {
+    "comment": "",
+    "source": "Downloading Additional Assets...",
+    "target": "Downloading Additional Assets..."
+  },
+  "diesel.kairos.download.hires.networkerror": {
+    "comment": "",
+    "source": "A network error occurred while downloading additional Assets",
+    "target": "A network error occurred while downloading additional Assets"
+  },
+  "diesel.kairos.download.hires.networkerrordesc": {
+    "comment": "",
+    "source": "Wait a few seconds and try again.",
+    "target": "Wait a few seconds and try again."
+  },
+  "diesel.kairos.download.hires.outofspacesubtext": {
+    "comment": "",
+    "source": "More space is needed for additional Assets, this won't affect your gameplay",
+    "target": "More space is needed for additional Assets, this won't affect your gameplay"
+  },
+  "diesel.kairos.download.hires.readyToPlay": {
+    "comment": "",
+    "source": "Ready to play.",
+    "target": "Ready to play."
+  },
+  "diesel.kairos.download.hires.unknownerror": {
+    "comment": "",
+    "source": "An unknown error occurred while downloading additional Assets",
+    "target": "An unknown error occurred while downloading additional Assets"
+  },
+  "diesel.kairos.download.hires.unknownerrordesc": {
+    "comment": "",
+    "source": "Wait a few seconds and try again.",
+    "target": "Wait a few seconds and try again."
+  },
+  "diesel.kairos.download.messages.backslidesubtext": {
+    "comment": "",
+    "source": "Try moving to a spot with better internet reception to speed things up.",
+    "target": "Try moving to a spot with better internet reception to speed things up."
+  },
+  "diesel.kairos.download.messages.backslidetitle": {
+    "comment": "",
+    "source": "The Download is Taking a Long Time",
+    "target": "The Download is Taking a Long Time"
+  },
+  "diesel.kairos.download.outofdate.title": {
+    "comment": "",
+    "source": "Client out of date",
+    "target": "Client out of date"
+  },
+  "diesel.kairos.download.pauseDownload": {
+    "comment": "",
+    "source": "Pause install?",
+    "target": "Pause install?"
+  },
+  "diesel.kairos.download.resumeDownload": {
+    "comment": "",
+    "source": "Resume install?",
+    "target": "Resume install?"
+  },
+  "diesel.kairos.download.update": {
+    "comment": "",
+    "source": "Update install?",
+    "target": "Update install?"
+  },
+  "diesel.kairos.download.updateCell": {
+    "comment": "",
+    "source": "Cellular update?",
+    "target": "Cellular update?"
+  },
+  "diesel.kairos.downloads.cancel": {
+    "comment": "",
+    "source": "Cancel and delete",
+    "target": "Cancel and delete"
+  },
+  "diesel.kairos.downloads.cancelOnly": {
+    "comment": "",
+    "source": "Cancel",
+    "target": "Cancel"
+  },
+  "diesel.kairos.downloads.download": {
+    "comment": "",
+    "source": "Download",
+    "target": "Download"
+  },
+  "diesel.kairos.downloads.downloading": {
+    "comment": "",
+    "source": "Downloading...",
+    "target": "Downloading..."
+  },
+  "diesel.kairos.downloads.fullreinstall.nothanks": {
+    "comment": "",
+    "source": "No Thanks",
+    "target": "No Thanks"
+  },
+  "diesel.kairos.downloads.fullreinstall.size": {
+    "comment": "",
+    "source": "Download size: {0}",
+    "target": "Download size: {0}"
+  },
+  "diesel.kairos.downloads.fullreinstall.startnewdownload": {
+    "comment": "",
+    "source": "Start a New Download",
+    "target": "Start a New Download"
+  },
+  "diesel.kairos.downloads.fullreinstall.subtitle": {
+    "comment": "",
+    "source": "We suggest you start your download again from scratch.",
+    "target": "We suggest you start your download again from scratch."
+  },
+  "diesel.kairos.downloads.fullreinstall.title": {
+    "comment": "",
+    "source": "UH OH! WE'RE HAVING TROUBLE DOWNLOADING THE GAME",
+    "target": "UH OH! WE'RE HAVING TROUBLE DOWNLOADING THE GAME"
+  },
+  "diesel.kairos.downloads.installCell": {
+    "comment": "",
+    "source": "Cellular install?",
+    "target": "Cellular install?"
+  },
+  "diesel.kairos.downloads.pause": {
+    "comment": "",
+    "source": "Pause Install",
+    "target": "Pause Install"
+  },
+  "diesel.kairos.downloads.pauseUpdate": {
+    "comment": "",
+    "source": "Pause Update",
+    "target": "Pause Update"
+  },
+  "diesel.kairos.downloads.pausecancel": {
+    "comment": "",
+    "source": "You can pause or cancel the installation. You won’t be able to play if you do that..",
+    "target": "You can pause or cancel the installation. You won’t be able to play if you do that.."
+  },
+  "diesel.kairos.downloads.remaining": {
+    "comment": "",
+    "source": "remaining",
+    "target": "remaining"
+  },
+  "diesel.kairos.downloads.resume": {
+    "comment": "",
+    "source": "Resume Install",
+    "target": "Resume Install"
+  },
+  "diesel.kairos.dropdown.button.loading": {
+    "comment": "",
+    "source": "Loading",
+    "target": "Loading"
+  },
+  "diesel.kairos.dropdown.button.loading0": {
+    "comment": "",
+    "source": "Loading.",
+    "target": "Loading."
+  },
+  "diesel.kairos.dropdown.button.loading1": {
+    "comment": "",
+    "source": "Loading..",
+    "target": "Loading.."
+  },
+  "diesel.kairos.dropdown.button.loading2": {
+    "comment": "",
+    "source": "Loading...",
+    "target": "Loading..."
+  },
+  "diesel.kairos.dropdown.button.loadingText": {
+    "comment": "",
+    "source": "This may take a few seconds...",
+    "target": "This may take a few seconds..."
+  },
+  "diesel.kairos.dropdownStore.comingSoon": {
+    "comment": "",
+    "source": "Coming Soon",
+    "target": "Coming Soon"
+  },
+  "diesel.kairos.dropdownStore.danceStudio": {
+    "comment": "",
+    "source": "Dance Studio",
+    "target": "Dance Studio"
+  },
+  "diesel.kairos.epic.download.outofdate.desc": {
+    "comment": "",
+    "source": "A Fortnite game client update from the Epic Games app is required",
+    "target": "A Fortnite game client update from the Epic Games app is required"
+  },
+  "diesel.kairos.epic.download.outofdate.open": {
+    "comment": "",
+    "source": "Open Epic Games app",
+    "target": "Open Epic Games app"
+  },
+  "diesel.kairos.errorBadge.delete": {
+    "comment": "",
+    "source": "Delete",
+    "target": "Delete"
+  },
+  "diesel.kairos.errorBadge.message": {
+    "comment": "",
+    "source": "Failed to send. Tap to retry.",
+    "target": "Failed to send. Tap to retry."
+  },
+  "diesel.kairos.errorBadge.tryAgain": {
+    "comment": "",
+    "source": "Try again",
+    "target": "Try again"
+  },
+  "diesel.kairos.eula.confirm": {
+    "comment": "",
+    "source": "Agree",
+    "target": "Agree"
+  },
+  "diesel.kairos.eula.error.body": {
+    "comment": "",
+    "source": "A problem occured while checking End User License Agreement.",
+    "target": "A problem occured while checking End User License Agreement."
+  },
+  "diesel.kairos.eula.error.header": {
+    "comment": "",
+    "source": "Error Occured",
+    "target": "Error Occured"
+  },
+  "diesel.kairos.eula.error.retry": {
+    "comment": "",
+    "source": "Retry",
+    "target": "Retry"
+  },
+  "diesel.kairos.eventBanner.button": {
+    "comment": "",
+    "source": "Watch Trailer",
+    "target": "Watch Trailer"
+  },
+  "diesel.kairos.eventBanner.title": {
+    "comment": "",
+    "source": "Season 2",
+    "target": "Season 2"
+  },
+  "diesel.kairos.firendsList.subtitle.embedded.plusMore": {
+    "comment": "",
+    "source": "+{0} More",
+    "target": "+{0} More"
+  },
+  "diesel.kairos.forceUpdate.message": {
+    "comment": "",
+    "source": "Uh oh. Your app needs to be updated if you want to use Party Hub with friends.",
+    "target": "Uh oh. Your app needs to be updated if you want to use Party Hub with friends."
+  },
+  "diesel.kairos.forceUpdate.processing": {
+    "comment": "",
+    "source": "Update Processing",
+    "target": "Update Processing"
+  },
+  "diesel.kairos.forceUpdate.processing.message": {
+    "comment": "",
+    "source": "Uh oh. The latest App Store version of the game is still updating. The button below will turn blue when it’s ready. Check back soon!",
+    "target": "Uh oh. The latest App Store version of the game is still updating. The button below will turn blue when it’s ready. Check back soon!"
+  },
+  "diesel.kairos.forceUpdate.textButton": {
+    "comment": "",
+    "source": "Update",
+    "target": "Update"
+  },
+  "diesel.kairos.forceUpdate.title": {
+    "comment": "",
+    "source": "Update Required",
+    "target": "Update Required"
+  },
+  "diesel.kairos.friend.addNickname": {
+    "comment": "",
+    "source": "Add nickname",
+    "target": "Add nickname"
+  },
+  "diesel.kairos.friend.changeNickname": {
+    "comment": "",
+    "source": "Change nickname",
+    "target": "Change nickname"
+  },
+  "diesel.kairos.friend.nickname.cancel": {
+    "comment": "",
+    "source": "Cancel",
+    "target": "Cancel"
+  },
+  "diesel.kairos.friend.nickname.error.emptyGraphQL": {
+    "comment": "",
+    "source": "Unknown error..please try again.",
+    "target": "Unknown error..please try again."
+  },
+  "diesel.kairos.friend.nickname.error.maxLength": {
+    "comment": "",
+    "source": "Maximum 16 characters!",
+    "target": "Maximum 16 characters!"
+  },
+  "diesel.kairos.friend.nickname.error.minLength": {
+    "comment": "",
+    "source": "Minimum 3 characters!",
+    "target": "Minimum 3 characters!"
+  },
+  "diesel.kairos.friend.nickname.error.noSymbols": {
+    "comment": "",
+    "source": "Invalid",
+    "target": "Invalid"
+  },
+  "diesel.kairos.friend.nickname.error.toxicName": {
+    "comment": "",
+    "source": "Don't be naughty!",
+    "target": "Don't be naughty!"
+  },
+  "diesel.kairos.friend.nickname.error.unknownFailure": {
+    "comment": "",
+    "source": "Unknown error..please try again.",
+    "target": "Unknown error..please try again."
+  },
+  "diesel.kairos.friend.nickname.save": {
+    "comment": "",
+    "source": "Save",
+    "target": "Save"
+  },
+  "diesel.kairos.friend.user": {
+    "comment": "",
+    "source": "User",
+    "target": "User"
+  },
+  "diesel.kairos.friendProfile.addFriend": {
+    "comment": "",
+    "source": "Add Friend",
+    "target": "Add Friend"
+  },
+  "diesel.kairos.friendProfile.block": {
+    "comment": "",
+    "source": "Block",
+    "target": "Block"
+  },
+  "diesel.kairos.friendProfile.cancelRequest": {
+    "comment": "",
+    "source": "Cancel request",
+    "target": "Cancel request"
+  },
+  "diesel.kairos.friendProfile.error": {
+    "comment": "",
+    "source": "Sorry, there was a problem loading your information",
+    "target": "Sorry, there was a problem loading your information"
+  },
+  "diesel.kairos.friendProfile.inInActiveParty": {
+    "comment": "",
+    "source": "In a party with you",
+    "target": "In a party with you"
+  },
+  "diesel.kairos.friendProfile.otherActions": {
+    "comment": "",
+    "source": "Other Actions",
+    "target": "Other Actions"
+  },
+  "diesel.kairos.friendProfile.requestSent": {
+    "comment": "",
+    "source": "Request sent",
+    "target": "Request sent"
+  },
+  "diesel.kairos.friendProfile.ringLlamaBell": {
+    "comment": "",
+    "source": "Invite to party",
+    "target": "Invite to party"
+  },
+  "diesel.kairos.friendProfile.unblock": {
+    "comment": "",
+    "source": "Unblock",
+    "target": "Unblock"
+  },
+  "diesel.kairos.friendProfile.unfriend": {
+    "comment": "",
+    "source": "Unfriend",
+    "target": "Unfriend"
+  },
+  "diesel.kairos.friendRequests.block": {
+    "comment": "",
+    "source": "Block",
+    "target": "Block"
+  },
+  "diesel.kairos.friendRequests.block.subTitle": {
+    "comment": "",
+    "source": "Blocked contacts won’t see you online and can’t invite you to party.",
+    "target": "Blocked contacts won’t see you online and can’t invite you to party."
+  },
+  "diesel.kairos.friendRequests.block.title": {
+    "comment": "",
+    "source": "Block {0}?",
+    "target": "Block {0}?"
+  },
+  "diesel.kairos.friendRequests.blockAndReport": {
+    "comment": "",
+    "source": "Block and Report",
+    "target": "Block and Report"
+  },
+  "diesel.kairos.friendRequests.dismiss": {
+    "comment": "",
+    "source": "Dismiss",
+    "target": "Dismiss"
+  },
+  "diesel.kairos.friendRequests.error": {
+    "comment": "",
+    "source": "Sorry, there was a problem loading your friend requests.",
+    "target": "Sorry, there was a problem loading your friend requests."
+  },
+  "diesel.kairos.friendRequests.multiple": {
+    "comment": "",
+    "source": "{0} new friend requests",
+    "target": "{0} new friend requests"
+  },
+  "diesel.kairos.friendRequests.noResults": {
+    "comment": "",
+    "source": "Sorry, no results were found",
+    "target": "Sorry, no results were found"
+  },
+  "diesel.kairos.friendRequests.search": {
+    "comment": "",
+    "source": "Search",
+    "target": "Search"
+  },
+  "diesel.kairos.friendRequests.single": {
+    "comment": "",
+    "source": "1 new friend request",
+    "target": "1 new friend request"
+  },
+  "diesel.kairos.friendRequests.title": {
+    "comment": "",
+    "source": "Friend Requests",
+    "target": "Friend Requests"
+  },
+  "diesel.kairos.friendRequests.unblock": {
+    "comment": "",
+    "source": "Unblock",
+    "target": "Unblock"
+  },
+  "diesel.kairos.friendRequests.unblock.subTitle": {
+    "comment": "",
+    "source": "{0} will be able to see you and invite you to party.",
+    "target": "{0} will be able to see you and invite you to party."
+  },
+  "diesel.kairos.friendRequests.unblock.title": {
+    "comment": "",
+    "source": "Unblock {0}?",
+    "target": "Unblock {0}?"
+  },
+  "diesel.kairos.friendRequests.unfriend": {
+    "comment": "",
+    "source": "Yes, Unfriend",
+    "target": "Yes, Unfriend"
+  },
+  "diesel.kairos.friendRequests.unfriend.subTitle": {
+    "comment": "",
+    "source": "If you remove this contact from your friends list, you won’t be able to invite them to party.",
+    "target": "If you remove this contact from your friends list, you won’t be able to invite them to party."
+  },
+  "diesel.kairos.friendRequests.unfriend.title": {
+    "comment": "",
+    "source": "Unfriend {0} ?",
+    "target": "Unfriend {0} ?"
+  },
+  "diesel.kairos.friendSubscription.confirm": {
+    "comment": "",
+    "source": "Okay",
+    "target": "Okay"
+  },
+  "diesel.kairos.friendSubscription.description": {
+    "comment": "",
+    "source": "Use Party Hub in the Fortnite mobile app to get notifications when your friends are playing!",
+    "target": "Use Party Hub in the Fortnite mobile app to get notifications when your friends are playing!"
+  },
+  "diesel.kairos.friendSubscription.subscribedDescription": {
+    "comment": "",
+    "source": "You will be notified next time they are playing Fortnite.",
+    "target": "You will be notified next time they are playing Fortnite."
+  },
+  "diesel.kairos.friendSubscription.subscribedTitle": {
+    "comment": "",
+    "source": "You subscribed to {0}.",
+    "target": "You subscribed to {0}."
+  },
+  "diesel.kairos.friendSubscription.title": {
+    "comment": "",
+    "source": "Get Notified",
+    "target": "Get Notified"
+  },
+  "diesel.kairos.friendSubscription.updateSubscriptionFailed": {
+    "comment": "",
+    "source": "There was an error updating your subscription settings for {0}. Please try again later.",
+    "target": "There was an error updating your subscription settings for {0}. Please try again later."
+  },
+  "diesel.kairos.friends.friendNotInstalled": {
+    "comment": "",
+    "source": "{0} is not currently active and is unavailable to receive invites.",
+    "target": "{0} is not currently active and is unavailable to receive invites."
+  },
+  "diesel.kairos.friends.friendOffline": {
+    "comment": "",
+    "source": "Offline",
+    "target": "Offline"
+  },
+  "diesel.kairos.friends.friendUnableToParty": {
+    "comment": "",
+    "source": "Sorry, your friend couldn’t join. Please try again.",
+    "target": "Sorry, your friend couldn’t join. Please try again."
+  },
+  "diesel.kairos.friends.group.add": {
+    "comment": "",
+    "source": "Add a Friend",
+    "target": "Add a Friend"
+  },
+  "diesel.kairos.friends.group.myfriends": {
+    "comment": "",
+    "source": "My friends",
+    "target": "My friends"
+  },
+  "diesel.kairos.friends.noResults": {
+    "comment": "",
+    "source": "Sorry, no players found with that name.",
+    "target": "Sorry, no players found with that name."
+  },
+  "diesel.kairos.friends.platformAlias": {
+    "comment": "",
+    "source": "{0} on {1}",
+    "target": "{0} on {1}"
+  },
+  "diesel.kairos.friends.search.placeholder": {
+    "comment": "",
+    "source": "Epic name or email",
+    "target": "Epic name or email"
+  },
+  "diesel.kairos.friends.summary.error": {
+    "comment": "",
+    "source": "Sorry, your friends didn’t load. Please try again.",
+    "target": "Sorry, your friends didn’t load. Please try again."
+  },
+  "diesel.kairos.friendsList.error": {
+    "comment": "",
+    "source": "Sorry, there was a problem loading your friends list",
+    "target": "Sorry, there was a problem loading your friends list"
+  },
+  "diesel.kairos.friendsList.loading": {
+    "comment": "",
+    "source": "Loading friends...",
+    "target": "Loading friends..."
+  },
+  "diesel.kairos.friendsList.noFriends": {
+    "comment": "",
+    "source": "You’ve got no friends to play with :(",
+    "target": "You’ve got no friends to play with :("
+  },
+  "diesel.kairos.friendsList.noFriends.homeScreen": {
+    "comment": "",
+    "source": "Start by finding some friends to party with.",
+    "target": "Start by finding some friends to party with."
+  },
+  "diesel.kairos.friendsList.noSearchResults": {
+    "comment": "",
+    "source": "Sorry, no results found.",
+    "target": "Sorry, no results found."
+  },
+  "diesel.kairos.friendsList.subtitle.away": {
+    "comment": "",
+    "source": "Away",
+    "target": "Away"
+  },
+  "diesel.kairos.friendsList.subtitle.embedded": {
+    "comment": "",
+    "source": "Just chattin'",
+    "target": "Just chattin'"
+  },
+  "diesel.kairos.friendsList.subtitle.embedded.multiple.plural": {
+    "comment": "",
+    "source": "Just chattin' with {0} others",
+    "target": "Just chattin' with {0} others"
+  },
+  "diesel.kairos.friendsList.subtitle.embedded.multiple.single": {
+    "comment": "",
+    "source": "Just chattin' with {0} other",
+    "target": "Just chattin' with {0} other"
+  },
+  "diesel.kairos.friendsList.subtitle.hasBeenPinged": {
+    "comment": "",
+    "source": "♩You invited them to come party♩",
+    "target": "♩You invited them to come party♩"
+  },
+  "diesel.kairos.friendsList.subtitle.hasReceivedPing": {
+    "comment": "",
+    "source": "Invited you to come party {0}",
+    "target": "Invited you to come party {0}"
+  },
+  "diesel.kairos.friendsList.subtitle.inLauncher": {
+    "comment": "",
+    "source": "Sitting in the launcher",
+    "target": "Sitting in the launcher"
+  },
+  "diesel.kairos.friendsList.subtitle.ingame": {
+    "comment": "",
+    "source": "Playing Fortnite",
+    "target": "Playing Fortnite"
+  },
+  "diesel.kairos.friendsList.subtitle.lastOnline": {
+    "comment": "",
+    "source": "Last online {0}",
+    "target": "Last online {0}"
+  },
+  "diesel.kairos.friendsList.subtitle.lockedParty": {
+    "comment": "",
+    "source": "In a locked party",
+    "target": "In a locked party"
+  },
+  "diesel.kairos.friendsList.subtitle.offline": {
+    "comment": "",
+    "source": "Offline",
+    "target": "Offline"
+  },
+  "diesel.kairos.friendsList.subtitle.online": {
+    "comment": "",
+    "source": "Online",
+    "target": "Online"
+  },
+  "diesel.kairos.friendsList.subtitle.unableToParty": {
+    "comment": "",
+    "source": "Active but unable to join",
+    "target": "Active but unable to join"
+  },
+  "diesel.kairos.friendsList.title": {
+    "comment": "",
+    "source": "Friends",
+    "target": "Friends"
+  },
+  "diesel.kairos.friendsListModal.search": {
+    "comment": "",
+    "source": "Search",
+    "target": "Search"
+  },
+  "diesel.kairos.groups.management.friendsGrouped": {
+    "comment": "",
+    "source": "Your friends are already grouped here",
+    "target": "Your friends are already grouped here"
+  },
+  "diesel.kairos.groups.management.viewGroup": {
+    "comment": "",
+    "source": "View Group",
+    "target": "View Group"
+  },
+  "diesel.kairos.home.accessShop": {
+    "comment": "",
+    "source": "You need to update / install Fortnite to open the item shop.",
+    "target": "You need to update / install Fortnite to open the item shop."
+  },
+  "diesel.kairos.home.autoupdatesenabled": {
+    "comment": "",
+    "source": "Automatic updates over wifi enabled",
+    "target": "Automatic updates over wifi enabled"
+  },
+  "diesel.kairos.home.autoupdatesenableddesc": {
+    "comment": "",
+    "source": "Updates are set to happen over wifi only",
+    "target": "Updates are set to happen over wifi only"
+  },
+  "diesel.kairos.home.cellDownloadRequired": {
+    "comment": "",
+    "source": "Cellular data will be used to complete the {0} download.",
+    "target": "Cellular data will be used to complete the {0} download."
+  },
+  "diesel.kairos.home.cellPaused": {
+    "comment": "",
+    "source": "Automatic update paused: lost WiFi connectivity.",
+    "target": "Automatic update paused: lost WiFi connectivity."
+  },
+  "diesel.kairos.home.cellResume": {
+    "comment": "",
+    "source": "Resume your download manually or change your auto update settings.",
+    "target": "Resume your download manually or change your auto update settings."
+  },
+  "diesel.kairos.home.cellSettingsChangeRequired": {
+    "comment": "",
+    "source": "Change your settings to download over cell data",
+    "target": "Change your settings to download over cell data"
+  },
+  "diesel.kairos.home.comingSoon": {
+    "comment": "",
+    "source": "Coming Soon",
+    "target": "Coming Soon"
+  },
+  "diesel.kairos.home.downloadCompleteCopy": {
+    "comment": "",
+    "source": "Download and installation complete",
+    "target": "Download and installation complete"
+  },
+  "diesel.kairos.home.downloadCompleteTitle": {
+    "comment": "",
+    "source": "Great news, Fortnite is ready to play!",
+    "target": "Great news, Fortnite is ready to play!"
+  },
+  "diesel.kairos.home.downloadErrorApplicationClosing": {
+    "comment": "",
+    "source": "Internal Patch Error: Application closing",
+    "target": "Internal Patch Error: Application closing"
+  },
+  "diesel.kairos.home.downloadErrorApplicationError": {
+    "comment": "",
+    "source": "Internal Patch Error: Application error",
+    "target": "Internal Patch Error: Application error"
+  },
+  "diesel.kairos.home.downloadErrorBuildVerifyFail": {
+    "comment": "",
+    "source": "Internal Patch Error: Building verify failed",
+    "target": "Internal Patch Error: Building verify failed"
+  },
+  "diesel.kairos.home.downloadErrorCannotContactServer": {
+    "comment": "",
+    "source": "Cannot contact server, try again later",
+    "target": "Cannot contact server, try again later"
+  },
+  "diesel.kairos.home.downloadErrorCannotContactServerSubText": {
+    "comment": "",
+    "source": "Try moving to a spot with better internet reception.",
+    "target": "Try moving to a spot with better internet reception."
+  },
+  "diesel.kairos.home.downloadErrorDownloadError": {
+    "comment": "",
+    "source": "Internal Patch Error: Patch download error",
+    "target": "Internal Patch Error: Patch download error"
+  },
+  "diesel.kairos.home.downloadErrorFileConstructionFail": {
+    "comment": "",
+    "source": "Internal Patch Error: File Construction Fail",
+    "target": "Internal Patch Error: File Construction Fail"
+  },
+  "diesel.kairos.home.downloadErrorInitializationError": {
+    "comment": "",
+    "source": "Internal Patch Error: Initialization error",
+    "target": "Internal Patch Error: Initialization error"
+  },
+  "diesel.kairos.home.downloadErrorInvalidBuild": {
+    "comment": "",
+    "source": "Internal Error: Bad bundle init status",
+    "target": "Internal Error: Bad bundle init status"
+  },
+  "diesel.kairos.home.downloadErrorInvalidBuildError": {
+    "comment": "",
+    "source": "Internal Error: Cannot read build metadata",
+    "target": "Internal Error: Cannot read build metadata"
+  },
+  "diesel.kairos.home.downloadErrorInvalidServerData": {
+    "comment": "",
+    "source": "Internal Error: Server build metadata is invalid",
+    "target": "Internal Error: Server build metadata is invalid"
+  },
+  "diesel.kairos.home.downloadErrorManifestArchiveError": {
+    "comment": "",
+    "source": "Internal Error: Manifest Archive Error",
+    "target": "Internal Error: Manifest Archive Error"
+  },
+  "diesel.kairos.home.downloadErrorMoveFileToInstall": {
+    "comment": "",
+    "source": "Internal Patch Error: Move file to install",
+    "target": "Internal Patch Error: Move file to install"
+  },
+  "diesel.kairos.home.downloadErrorNoInternetConnectionError": {
+    "comment": "",
+    "source": "No internet connection found, please enable and try again",
+    "target": "No internet connection found, please enable and try again"
+  },
+  "diesel.kairos.home.downloadErrorPathLengthExceeded": {
+    "comment": "",
+    "source": "Internal Patch Error: Path length exceeded",
+    "target": "Internal Patch Error: Path length exceeded"
+  },
+  "diesel.kairos.home.downloadErrorPrerequisiteError": {
+    "comment": "",
+    "source": "Internal Patch Error: Prerequisite error",
+    "target": "Internal Patch Error: Prerequisite error"
+  },
+  "diesel.kairos.home.downloadErrorSubText": {
+    "comment": "",
+    "source": "Please try installing again",
+    "target": "Please try installing again"
+  },
+  "diesel.kairos.home.downloadOfflineCompleteCopy": {
+    "comment": "",
+    "source": "Down for maintenance. Check back soon!",
+    "target": "Down for maintenance. Check back soon!"
+  },
+  "diesel.kairos.home.downloadOfflineCompleteTitle": {
+    "comment": "",
+    "source": "Fortnite download and install complete",
+    "target": "Fortnite download and install complete"
+  },
+  "diesel.kairos.home.downloadRequired": {
+    "comment": "",
+    "source": "{0} download required",
+    "target": "{0} download required"
+  },
+  "diesel.kairos.home.downloadUnknownError": {
+    "comment": "",
+    "source": "Unknown download error",
+    "target": "Unknown download error"
+  },
+  "diesel.kairos.home.downloadUnknownErrorSubText": {
+    "comment": "",
+    "source": "Unknown download error subtext",
+    "target": "Unknown download error subtext"
+  },
+  "diesel.kairos.home.downloading": {
+    "comment": "",
+    "source": "Downloading...",
+    "target": "Downloading..."
+  },
+  "diesel.kairos.home.downloading.completed": {
+    "comment": "",
+    "source": "{0}% completed",
+    "target": "{0}% completed"
+  },
+  "diesel.kairos.home.error.action": {
+    "comment": "",
+    "source": "Refresh",
+    "target": "Refresh"
+  },
+  "diesel.kairos.home.error.subtitle": {
+    "comment": "",
+    "source": "Sorry, something went wrong when you tried to login. Please try again.",
+    "target": "Sorry, something went wrong when you tried to login. Please try again."
+  },
+  "diesel.kairos.home.error.title": {
+    "comment": "",
+    "source": "Login Failed",
+    "target": "Login Failed"
+  },
+  "diesel.kairos.home.finalizedownload": {
+    "comment": "",
+    "source": "Finalizing Download",
+    "target": "Finalizing Download"
+  },
+  "diesel.kairos.home.fortnite": {
+    "comment": "",
+    "source": "FORTNITE",
+    "target": "FORTNITE"
+  },
+  "diesel.kairos.home.friendSearch": {
+    "comment": "",
+    "source": "Search or add friends...",
+    "target": "Search or add friends..."
+  },
+  "diesel.kairos.home.friendsOnline": {
+    "comment": "",
+    "source": "Friends Online",
+    "target": "Friends Online"
+  },
+  "diesel.kairos.home.friendsRequests": {
+    "comment": "",
+    "source": "Pending friend requests",
+    "target": "Pending friend requests"
+  },
+  "diesel.kairos.home.gameLoading": {
+    "comment": "",
+    "source": "Launching...",
+    "target": "Launching..."
+  },
+  "diesel.kairos.home.initializing": {
+    "comment": "",
+    "source": "Initializing",
+    "target": "Initializing"
+  },
+  "diesel.kairos.home.install": {
+    "comment": "",
+    "source": "Install",
+    "target": "Install"
+  },
+  "diesel.kairos.home.installed": {
+    "comment": "",
+    "source": "Installed",
+    "target": "Installed"
+  },
+  "diesel.kairos.home.installing": {
+    "comment": "",
+    "source": "Installing",
+    "target": "Installing"
+  },
+  "diesel.kairos.home.itemShop": {
+    "comment": "",
+    "source": "Item Shop",
+    "target": "Item Shop"
+  },
+  "diesel.kairos.home.join": {
+    "comment": "",
+    "source": "Join",
+    "target": "Join"
+  },
+  "diesel.kairos.home.live": {
+    "comment": "",
+    "source": "Live",
+    "target": "Live"
+  },
+  "diesel.kairos.home.locker": {
+    "comment": "",
+    "source": "Locker",
+    "target": "Locker"
+  },
+  "diesel.kairos.home.modaldesc": {
+    "comment": "",
+    "source": "Download the game on mobile to play with your friends while on the go. ",
+    "target": "Download the game on mobile to play with your friends while on the go. "
+  },
+  "diesel.kairos.home.open": {
+    "comment": "",
+    "source": "Open",
+    "target": "Open"
+  },
+  "diesel.kairos.home.openFortnite": {
+    "comment": "",
+    "source": "Open Fortnite",
+    "target": "Open Fortnite"
+  },
+  "diesel.kairos.home.optimizing": {
+    "comment": "",
+    "source": "Optimizing...",
+    "target": "Optimizing..."
+  },
+  "diesel.kairos.home.pause": {
+    "comment": "",
+    "source": "Pause",
+    "target": "Pause"
+  },
+  "diesel.kairos.home.play": {
+    "comment": "",
+    "source": "Play",
+    "target": "Play"
+  },
+  "diesel.kairos.home.previewItems": {
+    "comment": "",
+    "source": "Preview Items",
+    "target": "Preview Items"
+  },
+  "diesel.kairos.home.resume": {
+    "comment": "",
+    "source": "Resume",
+    "target": "Resume"
+  },
+  "diesel.kairos.home.storagePaused": {
+    "comment": "",
+    "source": "{0} storage available. {1} required to install.",
+    "target": "{0} storage available. {1} required to install."
+  },
+  "diesel.kairos.home.tab.friendList": {
+    "comment": "",
+    "source": "Friend List",
+    "target": "Friend List"
+  },
+  "diesel.kairos.home.tab.gameLauncher": {
+    "comment": "",
+    "source": "Game Launcher",
+    "target": "Game Launcher"
+  },
+  "diesel.kairos.home.totalFriendsRequests": {
+    "comment": "",
+    "source": "{0} friend requests",
+    "target": "{0} friend requests"
+  },
+  "diesel.kairos.home.update": {
+    "comment": "",
+    "source": "Update",
+    "target": "Update"
+  },
+  "diesel.kairos.home.update.alert.desc": {
+    "comment": "",
+    "source": "This Fortnite update isn't ready in the App Store yet, check back in a few minutes!",
+    "target": "This Fortnite update isn't ready in the App Store yet, check back in a few minutes!"
+  },
+  "diesel.kairos.home.update.alert.title": {
+    "comment": "",
+    "source": "Update Not Ready",
+    "target": "Update Not Ready"
+  },
+  "diesel.kairos.home.update.ios.alert.desc": {
+    "comment": "",
+    "source": "You're using an old version of iOS, which might make Fortnite crash. To fix this, update to the newest iOS version in your phone settings.",
+    "target": "You're using an old version of iOS, which might make Fortnite crash. To fix this, update to the newest iOS version in your phone settings."
+  },
+  "diesel.kairos.home.update.ios.alert.settings": {
+    "comment": "",
+    "source": "Go to Settings",
+    "target": "Go to Settings"
+  },
+  "diesel.kairos.home.update.ios.alert.startFortnite": {
+    "comment": "",
+    "source": "Start Fortnite Without Updating",
+    "target": "Start Fortnite Without Updating"
+  },
+  "diesel.kairos.home.update.ios.alert.title": {
+    "comment": "",
+    "source": "Update Your iOS",
+    "target": "Update Your iOS"
+  },
+  "diesel.kairos.home.update.notReady": {
+    "comment": "",
+    "source": "Not Ready",
+    "target": "Not Ready"
+  },
+  "diesel.kairos.invitationButton.title": {
+    "comment": "",
+    "source": "Friend Requests",
+    "target": "Friend Requests"
+  },
+  "diesel.kairos.ios.download.outofdate.desc": {
+    "comment": "",
+    "source": "A Fortnite game client update from the app store app is required",
+    "target": "A Fortnite game client update from the app store app is required"
+  },
+  "diesel.kairos.ios.download.outofdate.open": {
+    "comment": "",
+    "source": "Open App Store",
+    "target": "Open App Store"
+  },
+  "diesel.kairos.lastinteraction.became.friends": {
+    "comment": "{0} is for a date",
+    "source": "Became friends {0}",
+    "target": "Became friends {0}"
+  },
+  "diesel.kairos.lastinteraction.invited.you.to.party": {
+    "comment": "{0} is for a date",
+    "source": "Invited you {0}",
+    "target": "Invited you {0}"
+  },
+  "diesel.kairos.lastinteraction.partied.together": {
+    "comment": "{0} is for date",
+    "source": "Partied together {0}",
+    "target": "Partied together {0}"
+  },
+  "diesel.kairos.lastinteraction.you.invited.them": {
+    "comment": "{0} is for date",
+    "source": "You invited {0}",
+    "target": "You invited {0}"
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.FortAssetManager.UpdateStatusText.Initializing": {
+    "comment": "",
+    "source": "Connecting...",
+    "target": "Connecting..."
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.FortAssetManager.UpdateStatusText.MountingPaks": {
+    "comment": "",
+    "source": "Finishing...",
+    "target": "Finishing..."
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.FortAssetManager.UpdateStatusText.UpdateActive": {
+    "comment": "",
+    "source": "Updating...",
+    "target": "Updating..."
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.FortAssetManager.UpdateStatusText.UpdateFinishing": {
+    "comment": "",
+    "source": "Optimizing...",
+    "target": "Optimizing..."
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.StatusText.BuildVerification": {
+    "comment": "",
+    "source": "Verifing...",
+    "target": "Verifing..."
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.StatusText.CleanUp": {
+    "comment": "",
+    "source": "Optimizing...",
+    "target": "Optimizing..."
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.StatusText.Complete": {
+    "comment": "",
+    "source": "Installing",
+    "target": "Installing"
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.StatusText.Downloading": {
+    "comment": "",
+    "source": "Downloading...",
+    "target": "Downloading..."
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.StatusText.FinishingInstall": {
+    "comment": "",
+    "source": "Installing...",
+    "target": "Installing..."
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.StatusText.Initializing": {
+    "comment": "",
+    "source": "Initializing...",
+    "target": "Initializing..."
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.StatusText.Installing": {
+    "comment": "",
+    "source": "Installing...",
+    "target": "Installing..."
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.StatusText.PrerequisitesInstall": {
+    "comment": "",
+    "source": "Update",
+    "target": "Update"
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.StatusText.Queued": {
+    "comment": "",
+    "source": "Queued",
+    "target": "Queued"
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.StatusText.RequestQueued": {
+    "comment": "",
+    "source": "Queueing...",
+    "target": "Queueing..."
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.StatusText.Resuming": {
+    "comment": "",
+    "source": "Resuming...",
+    "target": "Resuming..."
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.UI-Status.DownloadFailed": {
+    "comment": "",
+    "source": "Install",
+    "target": "Install"
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.UI-Status.Installed": {
+    "comment": "",
+    "source": "Play",
+    "target": "Play"
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.UI-Status.NeedsUpdate": {
+    "comment": "",
+    "source": "Update",
+    "target": "Update"
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.UI-Status.NotInstalled": {
+    "comment": "",
+    "source": "Install",
+    "target": "Install"
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.UI-Status.Paused": {
+    "comment": "",
+    "source": "Resume",
+    "target": "Resume"
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.offline": {
+    "comment": "",
+    "source": "Scheduled Maintenance",
+    "target": "Scheduled Maintenance"
+  },
+  "diesel.kairos.launcher.fortnite.download.button.label.offline-desc": {
+    "comment": "",
+    "source": "Fortnite will be ready to update soon, so check back later!",
+    "target": "Fortnite will be ready to update soon, so check back later!"
+  },
+  "diesel.kairos.legal.eula": {
+    "comment": "",
+    "source": "End User License Agreement",
+    "target": "End User License Agreement"
+  },
+  "diesel.kairos.legal.tos": {
+    "comment": "",
+    "source": "Terms of Service",
+    "target": "Terms of Service"
+  },
+  "diesel.kairos.licenses": {
+    "comment": "",
+    "source": "Open Source Licenses",
+    "target": "Open Source Licenses"
+  },
+  "diesel.kairos.limitedMode.alert.dismiss": {
+    "comment": "",
+    "source": "Got it",
+    "target": "Got it"
+  },
+  "diesel.kairos.limitedMode.alert.switchParties.label": {
+    "comment": "",
+    "source": "You can’t switch parties yet",
+    "target": "You can’t switch parties yet"
+  },
+  "diesel.kairos.limitedMode.alert.switchParties.message": {
+    "comment": "",
+    "source": "Looks like you’re playing Fortnite on another device. You need to exit Fortnite on that device before you can switch to another party from your phone.",
+    "target": "Looks like you’re playing Fortnite on another device. You need to exit Fortnite on that device before you can switch to another party from your phone."
+  },
+  "diesel.kairos.limitedMode.alert.switchVoice.btn": {
+    "comment": "",
+    "source": "Switch voice chat to this device",
+    "target": "Switch voice chat to this device"
+  },
+  "diesel.kairos.limitedMode.label": {
+    "comment": "",
+    "source": "Currently partying on your {0}",
+    "target": "Currently partying on your {0}"
+  },
+  "diesel.kairos.limitedMode.transfermute": {
+    "comment": "",
+    "source": "You were muted during the transfer",
+    "target": "You were muted during the transfer"
+  },
+  "diesel.kairos.limitedMode.transferring": {
+    "comment": "",
+    "source": "Transferring voice...",
+    "target": "Transferring voice..."
+  },
+  "diesel.kairos.limitedMode.voicefrom": {
+    "comment": "",
+    "source": "Voice channel from your party on your {0}",
+    "target": "Voice channel from your party on your {0}"
+  },
+  "diesel.kairos.login.authenticating": {
+    "comment": "",
+    "source": "Checking your login info... ",
+    "target": "Checking your login info... "
+  },
+  "diesel.kairos.login.banned": {
+    "comment": "",
+    "source": "You are currently banned from Fortnite",
+    "target": "You are currently banned from Fortnite"
+  },
+  "diesel.kairos.login.createNew": {
+    "comment": "",
+    "source": "No, create new account",
+    "target": "No, create new account"
+  },
+  "diesel.kairos.login.epicGames": {
+    "comment": "",
+    "source": "Epic Games",
+    "target": "Epic Games"
+  },
+  "diesel.kairos.login.findAccount": {
+    "comment": "",
+    "source": "We’ll find your account. How do you normally login to Fortnite?",
+    "target": "We’ll find your account. How do you normally login to Fortnite?"
+  },
+  "diesel.kairos.login.findMyAccount": {
+    "comment": "",
+    "source": "Yes, find my account",
+    "target": "Yes, find my account"
+  },
+  "diesel.kairos.login.loginFailed": {
+    "comment": "",
+    "source": "Login failed",
+    "target": "Login failed"
+  },
+  "diesel.kairos.login.loginYou": {
+    "comment": "",
+    "source": "Logging you in",
+    "target": "Logging you in"
+  },
+  "diesel.kairos.login.noAccount": {
+    "comment": "",
+    "source": "Don't have an Epic Games account?",
+    "target": "Don't have an Epic Games account?"
+  },
+  "diesel.kairos.login.playedBefore": {
+    "comment": "",
+    "source": "Played Fortnite or other Epic games before?",
+    "target": "Played Fortnite or other Epic games before?"
+  },
+  "diesel.kairos.login.quit": {
+    "comment": "",
+    "source": "Quit",
+    "target": "Quit"
+  },
+  "diesel.kairos.login.retry": {
+    "comment": "",
+    "source": "Retry",
+    "target": "Retry"
+  },
+  "diesel.kairos.login.signUp": {
+    "comment": "",
+    "source": "Sign Up",
+    "target": "Sign Up"
+  },
+  "diesel.kairos.login.tryAgain": {
+    "comment": "",
+    "source": "Please try again",
+    "target": "Please try again"
+  },
+  "diesel.kairos.logout.login": {
+    "comment": "",
+    "source": "Login",
+    "target": "Login"
+  },
+  "diesel.kairos.logout.switchAccounts": {
+    "comment": "",
+    "source": "Switch Accounts",
+    "target": "Switch Accounts"
+  },
+  "diesel.kairos.logout.title": {
+    "comment": "",
+    "source": "You have been logged out of your account",
+    "target": "You have been logged out of your account"
+  },
+  "diesel.kairos.maintenance.message.connection": {
+    "comment": "",
+    "source": "No internet connection detected. Please check your connection. The app will reconnect automatically.",
+    "target": "No internet connection detected. Please check your connection. The app will reconnect automatically."
+  },
+  "diesel.kairos.maintenance.message.error": {
+    "comment": "",
+    "source": "An unknown error occurred, wait a few seconds and try again.",
+    "target": "An unknown error occurred, wait a few seconds and try again."
+  },
+  "diesel.kairos.maintenance.message.login": {
+    "comment": "",
+    "source": "We were unable to log you in, go back and try again.",
+    "target": "We were unable to log you in, go back and try again."
+  },
+  "diesel.kairos.maintenance.message.maintenance": {
+    "comment": "",
+    "source": "Our servers are currently undergoing scheduled maintenance.",
+    "target": "Our servers are currently undergoing scheduled maintenance."
+  },
+  "diesel.kairos.maintenance.title.connection": {
+    "comment": "",
+    "source": "Error",
+    "target": "Error"
+  },
+  "diesel.kairos.maintenance.title.error": {
+    "comment": "",
+    "source": "Error",
+    "target": "Error"
+  },
+  "diesel.kairos.maintenance.title.login": {
+    "comment": "",
+    "source": "Authentication Error",
+    "target": "Authentication Error"
+  },
+  "diesel.kairos.maintenance.title.maintenance": {
+    "comment": "",
+    "source": "We’ll be right back...",
+    "target": "We’ll be right back..."
+  },
+  "diesel.kairos.maintenance.tryAgain": {
+    "comment": "",
+    "source": "Try again",
+    "target": "Try again"
+  },
+  "diesel.kairos.menu.add": {
+    "comment": "",
+    "source": "Back",
+    "target": "Back"
+  },
+  "diesel.kairos.menu.addFriendsLink": {
+    "comment": "",
+    "source": "Add Friends",
+    "target": "Add Friends"
+  },
+  "diesel.kairos.menu.friendRequests.multiple": {
+    "comment": "",
+    "source": "{0} Requests",
+    "target": "{0} Requests"
+  },
+  "diesel.kairos.menu.friendRequests.single": {
+    "comment": "",
+    "source": "1 Request",
+    "target": "1 Request"
+  },
+  "diesel.kairos.menu.friendsLink.multiple": {
+    "comment": "",
+    "source": "{0} Friends",
+    "target": "{0} Friends"
+  },
+  "diesel.kairos.menu.friendsLink.single": {
+    "comment": "",
+    "source": "{0} Friend",
+    "target": "{0} Friend"
+  },
+  "diesel.kairos.messages.error": {
+    "comment": "",
+    "source": "Something went wrong.",
+    "target": "Something went wrong."
+  },
+  "diesel.kairos.messages.error.storage": {
+    "comment": "",
+    "source": "Available storage limit reached",
+    "target": "Available storage limit reached"
+  },
+  "diesel.kairos.messages.findFriends": {
+    "comment": "",
+    "source": "Find your friends",
+    "target": "Find your friends"
+  },
+  "diesel.kairos.messages.friendRequestsError": {
+    "comment": "",
+    "source": "Sorry, your friend requests didn’t load. Please try again.",
+    "target": "Sorry, your friend requests didn’t load. Please try again."
+  },
+  "diesel.kairos.messages.noFriends": {
+    "comment": "",
+    "source": "Looks like you could use some friends to party up with.",
+    "target": "Looks like you could use some friends to party up with."
+  },
+  "diesel.kairos.messages.reload": {
+    "comment": "",
+    "source": "Go Back",
+    "target": "Go Back"
+  },
+  "diesel.kairos.modal.back": {
+    "comment": "",
+    "source": "Back",
+    "target": "Back"
+  },
+  "diesel.kairos.moment.day": {
+    "comment": "",
+    "source": "a day",
+    "target": "a day"
+  },
+  "diesel.kairos.moment.days": {
+    "comment": "",
+    "source": "%d days",
+    "target": "%d days"
+  },
+  "diesel.kairos.moment.future": {
+    "comment": "",
+    "source": "in %s",
+    "target": "in %s"
+  },
+  "diesel.kairos.moment.hour": {
+    "comment": "",
+    "source": "an hour",
+    "target": "an hour"
+  },
+  "diesel.kairos.moment.hours": {
+    "comment": "",
+    "source": "%d hours",
+    "target": "%d hours"
+  },
+  "diesel.kairos.moment.minute": {
+    "comment": "",
+    "source": "a minute",
+    "target": "a minute"
+  },
+  "diesel.kairos.moment.minutes": {
+    "comment": "",
+    "source": "%d minutes",
+    "target": "%d minutes"
+  },
+  "diesel.kairos.moment.month": {
+    "comment": "",
+    "source": "a month",
+    "target": "a month"
+  },
+  "diesel.kairos.moment.months": {
+    "comment": "",
+    "source": "%d months",
+    "target": "%d months"
+  },
+  "diesel.kairos.moment.past": {
+    "comment": "",
+    "source": "%s ago",
+    "target": "%s ago"
+  },
+  "diesel.kairos.moment.second": {
+    "comment": "",
+    "source": "a few seconds",
+    "target": "a few seconds"
+  },
+  "diesel.kairos.moment.seconds": {
+    "comment": "",
+    "source": "%d seconds",
+    "target": "%d seconds"
+  },
+  "diesel.kairos.moment.week": {
+    "comment": "",
+    "source": "a week",
+    "target": "a week"
+  },
+  "diesel.kairos.moment.weeks": {
+    "comment": "",
+    "source": "%d weeks",
+    "target": "%d weeks"
+  },
+  "diesel.kairos.moment.year": {
+    "comment": "",
+    "source": "a year",
+    "target": "a year"
+  },
+  "diesel.kairos.moment.years": {
+    "comment": "",
+    "source": "%d years",
+    "target": "%d years"
+  },
+  "diesel.kairos.notice.devicesbelow": {
+    "comment": "",
+    "source": "Play FORTNITE on the devices below",
+    "target": "Play FORTNITE on the devices below"
+  },
+  "diesel.kairos.notice.explaination": {
+    "comment": "",
+    "source": "Sorry, your device is below the specs needed to play FORTNITE. We’re working on it.\n In the meantime, you can use the Party Hub here to chat with friends in FORTNITE. ",
+    "target": "Sorry, your device is below the specs needed to play FORTNITE. We’re working on it.\n In the meantime, you can use the Party Hub here to chat with friends in FORTNITE. "
+  },
+  "diesel.kairos.notice.installation": {
+    "comment": "",
+    "source": "FORTNITE installation",
+    "target": "FORTNITE installation"
+  },
+  "diesel.kairos.notice.notsupported": {
+    "comment": "",
+    "source": "Device not supported",
+    "target": "Device not supported"
+  },
+  "diesel.kairos.notice.phonecompat": {
+    "comment": "",
+    "source": "Phone compatibility",
+    "target": "Phone compatibility"
+  },
+  "diesel.kairos.notice.unsupportedDevices": {
+    "comment": "",
+    "source": "Fortnite DOES NOT support: iPhone 6 Plus and older; iPad 4th gen and older, iPad Mini 3 and older, iPad Air; iPod Touch 6th gen and older",
+    "target": "Fortnite DOES NOT support: iPhone 6 Plus and older; iPad 4th gen and older, iPad Mini 3 and older, iPad Air; iPod Touch 6th gen and older"
+  },
+  "diesel.kairos.notice.viewcompat": {
+    "comment": "",
+    "source": "View supported devices",
+    "target": "View supported devices"
+  },
+  "diesel.kairos.notification.button.accept": {
+    "comment": "",
+    "source": "Accept",
+    "target": "Accept"
+  },
+  "diesel.kairos.notification.button.join": {
+    "comment": "",
+    "source": "Join",
+    "target": "Join"
+  },
+  "diesel.kairos.notification.button.view": {
+    "comment": "",
+    "source": "View",
+    "target": "View"
+  },
+  "diesel.kairos.notification.friendAction.subTitle": {
+    "comment": "",
+    "source": "Please try again",
+    "target": "Please try again"
+  },
+  "diesel.kairos.notification.friendAction.subTitle.autoDecline": {
+    "comment": "",
+    "source": "{0} is not accepting friend requests",
+    "target": "{0} is not accepting friend requests"
+  },
+  "diesel.kairos.notification.friendAction.subTitle.inviteeLimitExceeded": {
+    "comment": "",
+    "source": "Your friends list is full",
+    "target": "Your friends list is full"
+  },
+  "diesel.kairos.notification.friendAction.subTitle.inviterLimitExceeded": {
+    "comment": "",
+    "source": "{0} has reached their friend limit",
+    "target": "{0} has reached their friend limit"
+  },
+  "diesel.kairos.notification.friendAction.subTitle.outgoingLimitExceeded": {
+    "comment": "",
+    "source": "Your friends list is full",
+    "target": "Your friends list is full"
+  },
+  "diesel.kairos.notification.friendAction.title": {
+    "comment": "",
+    "source": "There was a problem sending the request",
+    "target": "There was a problem sending the request"
+  },
+  "diesel.kairos.notification.friendAction.title.autoDecline": {
+    "comment": "",
+    "source": "Failed to send friend invite",
+    "target": "Failed to send friend invite"
+  },
+  "diesel.kairos.notification.friendAction.title.inviteeLimitExceeded": {
+    "comment": "",
+    "source": "Failed to add friend",
+    "target": "Failed to add friend"
+  },
+  "diesel.kairos.notification.friendAction.title.inviterlimitExceeded": {
+    "comment": "",
+    "source": "Failed to send friend invite",
+    "target": "Failed to send friend invite"
+  },
+  "diesel.kairos.notification.friendAction.title.outgoingLimitExceeded": {
+    "comment": "",
+    "source": "Failed to add friend",
+    "target": "Failed to add friend"
+  },
+  "diesel.kairos.notification.friendInvite.added.text": {
+    "comment": "",
+    "source": "You & {0} are now friends",
+    "target": "You & {0} are now friends"
+  },
+  "diesel.kairos.notification.friendInvite.incoming.multiple": {
+    "comment": "",
+    "source": "You have {0} pending friend requests",
+    "target": "You have {0} pending friend requests"
+  },
+  "diesel.kairos.notification.friendInvite.incoming.text": {
+    "comment": "",
+    "source": "{0} requested to be your friend",
+    "target": "{0} requested to be your friend"
+  },
+  "diesel.kairos.notification.joiningParty.invited": {
+    "comment": "",
+    "source": "Invite sent to {0}.",
+    "target": "Invite sent to {0}."
+  },
+  "diesel.kairos.notification.joiningParty.joining": {
+    "comment": "",
+    "source": "Joining {0}'s party...",
+    "target": "Joining {0}'s party..."
+  },
+  "diesel.kairos.notification.joiningParty.locked": {
+    "comment": "",
+    "source": "{0} is in a locked party, let them know you are here.",
+    "target": "{0} is in a locked party, let them know you are here."
+  },
+  "diesel.kairos.notification.joiningParty.memberJoined": {
+    "comment": "",
+    "source": "{0} joined your party",
+    "target": "{0} joined your party"
+  },
+  "diesel.kairos.notification.joiningParty.offline": {
+    "comment": "",
+    "source": "{0} left. Invite them back to the party.",
+    "target": "{0} left. Invite them back to the party."
+  },
+  "diesel.kairos.notification.liveChatInvite.subtext": {
+    "comment": "",
+    "source": "Invited you to party",
+    "target": "Invited you to party"
+  },
+  "diesel.kairos.notification.liveChatInvite.text": {
+    "comment": "",
+    "source": "{0}",
+    "target": "{0}"
+  },
+  "diesel.kairos.notification.messageReceived.dm.subtext": {
+    "comment": "",
+    "source": "{0}",
+    "target": "{0}"
+  },
+  "diesel.kairos.notification.messageReceived.dm.text": {
+    "comment": "",
+    "source": "{0}",
+    "target": "{0}"
+  },
+  "diesel.kairos.notification.party.lock.subtitle": {
+    "comment": "",
+    "source": "No one will be able to join unless you invite them",
+    "target": "No one will be able to join unless you invite them"
+  },
+  "diesel.kairos.notification.party.lock.title": {
+    "comment": "",
+    "source": "The party is now locked",
+    "target": "The party is now locked"
+  },
+  "diesel.kairos.notification.party.newLeader.friend": {
+    "comment": "",
+    "source": "is the new party leader",
+    "target": "is the new party leader"
+  },
+  "diesel.kairos.notification.party.newLeader.subtitle": {
+    "comment": "",
+    "source": "Now you can lock or unlock the party",
+    "target": "Now you can lock or unlock the party"
+  },
+  "diesel.kairos.notification.party.newLeader.title": {
+    "comment": "",
+    "source": "You are the new party leader",
+    "target": "You are the new party leader"
+  },
+  "diesel.kairos.notification.party.unlock.subtitle": {
+    "comment": "",
+    "source": "Everybody can join the party now",
+    "target": "Everybody can join the party now"
+  },
+  "diesel.kairos.notification.party.unlock.title": {
+    "comment": "",
+    "source": "The party has been unlocked",
+    "target": "The party has been unlocked"
+  },
+  "diesel.kairos.notification.partyError.AlreadyInLeadersJoiningList": {
+    "comment": "",
+    "source": "We know that you want to join this party, but the party is still connecting.",
+    "target": "We know that you want to join this party, but the party is still connecting."
+  },
+  "diesel.kairos.notification.partyError.AlreadyInParty": {
+    "comment": "",
+    "source": "You are both already in the same party.",
+    "target": "You are both already in the same party."
+  },
+  "diesel.kairos.notification.partyError.AlreadyInPartyOfSpecifiedType": {
+    "comment": "",
+    "source": "Sorry, we couldn't leave the current party before joining the new one.",
+    "target": "Sorry, we couldn't leave the current party before joining the new one."
+  },
+  "diesel.kairos.notification.partyError.AlreadyJoiningParty": {
+    "comment": "",
+    "source": "Sorry, we were still connecting to the previous party.",
+    "target": "Sorry, we were still connecting to the previous party."
+  },
+  "diesel.kairos.notification.partyError.BadBuild": {
+    "comment": "",
+    "source": "Can't connect to the party because your app version is not compatible.",
+    "target": "Can't connect to the party because your app version is not compatible."
+  },
+  "diesel.kairos.notification.partyError.Kicked": {
+    "comment": "",
+    "source": "You were kicked from the party.",
+    "target": "You were kicked from the party."
+  },
+  "diesel.kairos.notification.partyError.Left": {
+    "comment": "",
+    "source": "You left the party.",
+    "target": "You left the party."
+  },
+  "diesel.kairos.notification.partyError.NeedApp": {
+    "comment": "",
+    "source": "{0} needs the app to party up on the go.",
+    "target": "{0} needs the app to party up on the go."
+  },
+  "diesel.kairos.notification.partyError.NeedApp.TapHere": {
+    "comment": "",
+    "source": "Tap here to share this app with them.",
+    "target": "Tap here to share this app with them."
+  },
+  "diesel.kairos.notification.partyError.NoResponse": {
+    "comment": "",
+    "source": "Sorry, we couldn’t connect to that party. Please try again. ",
+    "target": "Sorry, we couldn’t connect to that party. Please try again. "
+  },
+  "diesel.kairos.notification.partyError.NotApproved": {
+    "comment": "",
+    "source": "Sorry, the leader locked the party before you were able to join.",
+    "target": "Sorry, the leader locked the party before you were able to join."
+  },
+  "diesel.kairos.notification.partyError.PartyFull": {
+    "comment": "",
+    "source": "The party you tried to connect to is full",
+    "target": "The party you tried to connect to is full"
+  },
+  "diesel.kairos.notification.partyError.Removed": {
+    "comment": "",
+    "source": "Sorry, we couldn't keep you connected to your party.",
+    "target": "Sorry, we couldn't keep you connected to your party."
+  },
+  "diesel.kairos.notification.partyError.RequesteeNotMember": {
+    "comment": "",
+    "source": "Your friend is not in the party anymore.",
+    "target": "Your friend is not in the party anymore."
+  },
+  "diesel.kairos.notification.partyError.Unknown": {
+    "comment": "",
+    "source": "Sorry, we got an unknown party error. Error code {0}",
+    "target": "Sorry, we got an unknown party error. Error code {0}"
+  },
+  "diesel.kairos.notification.partyError.UnknownParty": {
+    "comment": "",
+    "source": "The party you tried to connect to doesn't exist.",
+    "target": "The party you tried to connect to doesn't exist."
+  },
+  "diesel.kairos.notification.partyError.noMicPermission": {
+    "comment": "",
+    "source": "Sorry, you can't party without the mic. Where's the fun in that?",
+    "target": "Sorry, you can't party without the mic. Where's the fun in that?"
+  },
+  "diesel.kairos.notification.partyError.noMicPermissionCTA": {
+    "comment": "",
+    "source": "Enable",
+    "target": "Enable"
+  },
+  "diesel.kairos.notification.partyError.notleader": {
+    "comment": "",
+    "source": "Sorry, only the leader can do that.",
+    "target": "Sorry, only the leader can do that."
+  },
+  "diesel.kairos.notification.partyInvite": {
+    "comment": "",
+    "source": "{0} invited you to come party!",
+    "target": "{0} invited you to come party!"
+  },
+  "diesel.kairos.notification.partyInviteError.AlreadyInParty": {
+    "comment": "",
+    "source": "You are already in the same party.",
+    "target": "You are already in the same party."
+  },
+  "diesel.kairos.notification.partyInviteError.InviteFailed": {
+    "comment": "",
+    "source": "Your invite could not be sent",
+    "target": "Your invite could not be sent"
+  },
+  "diesel.kairos.notification.partyInviteError.NoPermission": {
+    "comment": "",
+    "source": "This user's mic is currently disabled. They can't join this party.",
+    "target": "This user's mic is currently disabled. They can't join this party."
+  },
+  "diesel.kairos.notification.partyInviteError.PartyFull": {
+    "comment": "",
+    "source": "The party you tried to connect to is full",
+    "target": "The party you tried to connect to is full"
+  },
+  "diesel.kairos.notification.partyInviteError.RateLimited": {
+    "comment": "",
+    "source": "You reached the invite limit. Try again in a few seconds.",
+    "target": "You reached the invite limit. Try again in a few seconds."
+  },
+  "diesel.kairos.notification.partyInviteError.Unknown": {
+    "comment": "",
+    "source": "Sorry, we got an unknown party error. Error code {0}",
+    "target": "Sorry, we got an unknown party error. Error code {0}"
+  },
+  "diesel.kairos.notification.partyInviteError.UnknownInternalFailure": {
+    "comment": "",
+    "source": "We couldn't ring the Llama bell this time. Please try again.",
+    "target": "We couldn't ring the Llama bell this time. Please try again."
+  },
+  "diesel.kairos.notification.partyInviteError.partynotfound": {
+    "comment": "",
+    "source": "You need to be in a party to invite friends. Please try again.",
+    "target": "You need to be in a party to invite friends. Please try again."
+  },
+  "diesel.kairos.notification.partyUserJoinOrLeave.join": {
+    "comment": "",
+    "source": "{0} joined the party",
+    "target": "{0} joined the party"
+  },
+  "diesel.kairos.notification.partyUserJoinOrLeave.leave": {
+    "comment": "",
+    "source": "{0} left the party",
+    "target": "{0} left the party"
+  },
+  "diesel.kairos.notification.rungLlamaBellFirstTime.ctaText": {
+    "comment": "",
+    "source": "Got It",
+    "target": "Got It"
+  },
+  "diesel.kairos.notification.rungLlamaBellFirstTime.text": {
+    "comment": "",
+    "source": "♪CLANG!♪ The Llama Bell sends a notification to friends to come party.",
+    "target": "♪CLANG!♪ The Llama Bell sends a notification to friends to come party."
+  },
+  "diesel.kairos.notification.sendMessageError.subText": {
+    "comment": "",
+    "source": "Your message to {0} could not be sent",
+    "target": "Your message to {0} could not be sent"
+  },
+  "diesel.kairos.notification.sendMessageError.title": {
+    "comment": "",
+    "source": "Message failed to send",
+    "target": "Message failed to send"
+  },
+  "diesel.kairos.notification.unknown": {
+    "comment": "",
+    "source": "Unknown",
+    "target": "Unknown"
+  },
+  "diesel.kairos.onBoarding.changeSkin": {
+    "comment": "",
+    "source": "Change outfit / profile color",
+    "target": "Change outfit / profile color"
+  },
+  "diesel.kairos.onBoarding.findFriends": {
+    "comment": "",
+    "source": "Find out which friends are online right now!",
+    "target": "Find out which friends are online right now!"
+  },
+  "diesel.kairos.onBoarding.new": {
+    "comment": "",
+    "source": "New!",
+    "target": "New!"
+  },
+  "diesel.kairos.onBoarding.partyHub": {
+    "comment": "",
+    "source": "Party Hub",
+    "target": "Party Hub"
+  },
+  "diesel.kairos.onBoarding.partyOnGo": {
+    "comment": "",
+    "source": "Party Up On The Go!",
+    "target": "Party Up On The Go!"
+  },
+  "diesel.kairos.onBoarding.partyUp": {
+    "comment": "",
+    "source": "Party up and chat with your friends from wherever you are.",
+    "target": "Party up and chat with your friends from wherever you are."
+  },
+  "diesel.kairos.onBoarding.skip": {
+    "comment": "",
+    "source": "Skip",
+    "target": "Skip"
+  },
+  "diesel.kairos.onBoarding.try": {
+    "comment": "",
+    "source": "Try",
+    "target": "Try"
+  },
+  "diesel.kairos.onBoarding.watchVideo": {
+    "comment": "",
+    "source": "Watch The Video",
+    "target": "Watch The Video"
+  },
+  "diesel.kairos.onboarding.appear": {
+    "comment": "",
+    "source": "Here's how you'll appear to your friends",
+    "target": "Here's how you'll appear to your friends"
+  },
+  "diesel.kairos.onboarding.appeardesc": {
+    "comment": "",
+    "source": "Pick from some funky Fortnite avatars or switch your color theme.",
+    "target": "Pick from some funky Fortnite avatars or switch your color theme."
+  },
+  "diesel.kairos.onboarding.awesome": {
+    "comment": "",
+    "source": "awesome",
+    "target": "awesome"
+  },
+  "diesel.kairos.onboarding.cantplay": {
+    "comment": "",
+    "source": "Even when you can't play.",
+    "target": "Even when you can't play."
+  },
+  "diesel.kairos.onboarding.continue": {
+    "comment": "",
+    "source": "continue",
+    "target": "continue"
+  },
+  "diesel.kairos.onboarding.cool": {
+    "comment": "",
+    "source": "cool",
+    "target": "cool"
+  },
+  "diesel.kairos.onboarding.enablemic": {
+    "comment": "",
+    "source": "Enable microphone",
+    "target": "Enable microphone"
+  },
+  "diesel.kairos.onboarding.enablenotifications": {
+    "comment": "",
+    "source": "Enable notifications",
+    "target": "Enable notifications"
+  },
+  "diesel.kairos.onboarding.fewpermissions": {
+    "comment": "",
+    "source": "We need you to allow a few permissions before you can party. You can change these at anytime.",
+    "target": "We need you to allow a few permissions before you can party. You can change these at anytime."
+  },
+  "diesel.kairos.onboarding.friendsdoing": {
+    "comment": "",
+    "source": "See what your friends are doing.",
+    "target": "See what your friends are doing."
+  },
+  "diesel.kairos.onboarding.friendsdoingdesc": {
+    "comment": "",
+    "source": "You’ll always have control of what your friends can and can’t see",
+    "target": "You’ll always have control of what your friends can and can’t see"
+  },
+  "diesel.kairos.onboarding.getstarted": {
+    "comment": "",
+    "source": "Get Started",
+    "target": "Get Started"
+  },
+  "diesel.kairos.onboarding.gg": {
+    "comment": "",
+    "source": "GoulGirl wants you to come party!",
+    "target": "GoulGirl wants you to come party!"
+  },
+  "diesel.kairos.onboarding.inviteeveryone": {
+    "comment": "",
+    "source": "Inviting everyone at once",
+    "target": "Inviting everyone at once"
+  },
+  "diesel.kairos.onboarding.jumpinout": {
+    "comment": "",
+    "source": "Jump in and out of games while sticking together with your party",
+    "target": "Jump in and out of games while sticking together with your party"
+  },
+  "diesel.kairos.onboarding.letsgo": {
+    "comment": "",
+    "source": "Let's go!",
+    "target": "Let's go!"
+  },
+  "diesel.kairos.onboarding.llamabell": {
+    "comment": "",
+    "source": "The Llama Bell",
+    "target": "The Llama Bell"
+  },
+  "diesel.kairos.onboarding.llamafriend": {
+    "comment": "",
+    "source": "Your friend will receive a notification to come start a party with you or join the party you're already in",
+    "target": "Your friend will receive a notification to come start a party with you or join the party you're already in"
+  },
+  "diesel.kairos.onboarding.llamaheader": {
+    "comment": "",
+    "source": "Listen for the Llama Bell",
+    "target": "Listen for the Llama Bell"
+  },
+  "diesel.kairos.onboarding.llamannot": {
+    "comment": "",
+    "source": "Example of what your friends see.",
+    "target": "Example of what your friends see."
+  },
+  "diesel.kairos.onboarding.lockedparties": {
+    "comment": "",
+    "source": "Inviting friends to locked parties",
+    "target": "Inviting friends to locked parties"
+  },
+  "diesel.kairos.onboarding.lookingood": {
+    "comment": "",
+    "source": "Lookin' good",
+    "target": "Lookin' good"
+  },
+  "diesel.kairos.onboarding.maybelater": {
+    "comment": "",
+    "source": "Maybe later",
+    "target": "Maybe later"
+  },
+  "diesel.kairos.onboarding.mic": {
+    "comment": "",
+    "source": "microphone",
+    "target": "microphone"
+  },
+  "diesel.kairos.onboarding.micperm": {
+    "comment": "",
+    "source": "So you can join parties and talk with your friends",
+    "target": "So you can join parties and talk with your friends"
+  },
+  "diesel.kairos.onboarding.neat": {
+    "comment": "",
+    "source": "neat",
+    "target": "neat"
+  },
+  "diesel.kairos.onboarding.notePrivacy": {
+    "comment": "",
+    "source": "Note: This setting is different from your in-game Privacy Setting",
+    "target": "Note: This setting is different from your in-game Privacy Setting"
+  },
+  "diesel.kairos.onboarding.notificationsperm0": {
+    "comment": "",
+    "source": "So friends have a way of reaching you when they want you to come party",
+    "target": "So friends have a way of reaching you when they want you to come party"
+  },
+  "diesel.kairos.onboarding.notificationsperm1": {
+    "comment": "",
+    "source": "You can manage what notifications you receive in Settings.",
+    "target": "You can manage what notifications you receive in Settings."
+  },
+  "diesel.kairos.onboarding.onemoretime": {
+    "comment": "",
+    "source": "Re-watch intro",
+    "target": "Re-watch intro"
+  },
+  "diesel.kairos.onboarding.onetap": {
+    "comment": "",
+    "source": "Just one tap and you’re with them",
+    "target": "Just one tap and you’re with them"
+  },
+  "diesel.kairos.onboarding.onetapdesc": {
+    "comment": "",
+    "source": "Hang out and chat with all your friends. Talk from anywhere and from any platform.",
+    "target": "Hang out and chat with all your friends. Talk from anywhere and from any platform."
+  },
+  "diesel.kairos.onboarding.partyPrivate": {
+    "comment": "",
+    "source": "Keep my party private",
+    "target": "Keep my party private"
+  },
+  "diesel.kairos.onboarding.partyPublic": {
+    "comment": "",
+    "source": "Allow friends to join without an invite",
+    "target": "Allow friends to join without an invite"
+  },
+  "diesel.kairos.onboarding.partySettings": {
+    "comment": "",
+    "source": "You can always set your Party Settings to private if you wish from the settings menu",
+    "target": "You can always set your Party Settings to private if you wish from the settings menu"
+  },
+  "diesel.kairos.onboarding.partyopenperm": {
+    "comment": "",
+    "source": "Partying is easier when you allow your friends to drop in at any time! You can always swap to private from the settings menu.",
+    "target": "Partying is easier when you allow your friends to drop in at any time! You can always swap to private from the settings menu."
+  },
+  "diesel.kairos.onboarding.partyphone": {
+    "comment": "",
+    "source": "Start a party from your phone",
+    "target": "Start a party from your phone"
+  },
+  "diesel.kairos.onboarding.play": {
+    "comment": "",
+    "source": "Finally, the game is always there at the top. Go to the top when you want to play.",
+    "target": "Finally, the game is always there at the top. Go to the top when you want to play."
+  },
+  "diesel.kairos.onboarding.powerheader": {
+    "comment": "",
+    "source": "Hang out and chat or power on and play",
+    "target": "Hang out and chat or power on and play"
+  },
+  "diesel.kairos.onboarding.powermsg": {
+    "comment": "",
+    "source": "Your party goes wherever you go. Just open up Fortnite on your favorite device and you’re already with your friends.",
+    "target": "Your party goes wherever you go. Just open up Fortnite on your favorite device and you’re already with your friends."
+  },
+  "diesel.kairos.onboarding.ready2party": {
+    "comment": "",
+    "source": "Be ready to party",
+    "target": "Be ready to party"
+  },
+  "diesel.kairos.onboarding.recommended": {
+    "comment": "",
+    "source": "Recommended",
+    "target": "Recommended"
+  },
+  "diesel.kairos.onboarding.requireupdate": {
+    "comment": "",
+    "source": "You might need to update to the latest version of the game to play",
+    "target": "You might need to update to the latest version of the game to play"
+  },
+  "diesel.kairos.onboarding.squadUp": {
+    "comment": "",
+    "source": "Quickly squad up with an open party!",
+    "target": "Quickly squad up with an open party!"
+  },
+  "diesel.kairos.onboarding.updatedesc": {
+    "comment": "",
+    "source": "No more FOMO now that you can party and play from anywhere.",
+    "target": "No more FOMO now that you can party and play from anywhere."
+  },
+  "diesel.kairos.onboarding.voicechat": {
+    "comment": "",
+    "source": "hang out on voice chat",
+    "target": "hang out on voice chat"
+  },
+  "diesel.kairos.onboarding.whatsnew": {
+    "comment": "",
+    "source": "Watch what's new",
+    "target": "Watch what's new"
+  },
+  "diesel.kairos.onboarding.wtl": {
+    "comment": "",
+    "source": "The Llama Bell sends a notification to friends to come party",
+    "target": "The Llama Bell sends a notification to friends to come party"
+  },
+  "diesel.kairos.onboardingllamadesc": {
+    "comment": "",
+    "source": "The Llama Bell notifies friends to come party.",
+    "target": "The Llama Bell notifies friends to come party."
+  },
+  "diesel.kairos.party.closeModal": {
+    "comment": "",
+    "source": "Close",
+    "target": "Close"
+  },
+  "diesel.kairos.party.emptyParty": {
+    "comment": "",
+    "source": "Looks like everyone left...",
+    "target": "Looks like everyone left..."
+  },
+  "diesel.kairos.party.failedVoice": {
+    "comment": "",
+    "source": "Trying to connect to voice chat...",
+    "target": "Trying to connect to voice chat..."
+  },
+  "diesel.kairos.party.item.button.continueAndJoin": {
+    "comment": "",
+    "source": "Continue & join",
+    "target": "Continue & join"
+  },
+  "diesel.kairos.party.item.button.dontJoin": {
+    "comment": "",
+    "source": "Don't join",
+    "target": "Don't join"
+  },
+  "diesel.kairos.party.item.button.full": {
+    "comment": "",
+    "source": "Full",
+    "target": "Full"
+  },
+  "diesel.kairos.party.item.button.join": {
+    "comment": "",
+    "source": "Join",
+    "target": "Join"
+  },
+  "diesel.kairos.party.item.button.leave": {
+    "comment": "",
+    "source": "Leave",
+    "target": "Leave"
+  },
+  "diesel.kairos.party.item.button.loading": {
+    "comment": "",
+    "source": "Loading",
+    "target": "Loading"
+  },
+  "diesel.kairos.party.item.modal.strangers.alert.text": {
+    "comment": "",
+    "source": "Looks like there are people in this party you may not know that well.",
+    "target": "Looks like there are people in this party you may not know that well."
+  },
+  "diesel.kairos.party.item.modal.strangers.alert.title": {
+    "comment": "",
+    "source": "be aware",
+    "target": "be aware"
+  },
+  "diesel.kairos.party.item.modal.strangers.button.cancel": {
+    "comment": "",
+    "source": "don't join",
+    "target": "don't join"
+  },
+  "diesel.kairos.party.item.modal.strangers.button.join": {
+    "comment": "",
+    "source": "continue & join",
+    "target": "continue & join"
+  },
+  "diesel.kairos.party.item.modal.strangers.plural": {
+    "comment": "",
+    "source": "And {0} others",
+    "target": "And {0} others"
+  },
+  "diesel.kairos.party.item.modal.strangers.single": {
+    "comment": "",
+    "source": "And {0} other",
+    "target": "And {0} other"
+  },
+  "diesel.kairos.party.item.name.separator": {
+    "comment": "",
+    "source": ", ",
+    "target": ", "
+  },
+  "diesel.kairos.party.item.name.separator.last": {
+    "comment": "",
+    "source": " & ",
+    "target": " & "
+  },
+  "diesel.kairos.party.item.plusMore": {
+    "comment": "",
+    "source": "+{0} more",
+    "target": "+{0} more"
+  },
+  "diesel.kairos.party.item.strangers.plural": {
+    "comment": "",
+    "source": "{0} others",
+    "target": "{0} others"
+  },
+  "diesel.kairos.party.item.strangers.single": {
+    "comment": "",
+    "source": "{0} other",
+    "target": "{0} other"
+  },
+  "diesel.kairos.party.joining": {
+    "comment": "",
+    "source": "Attempting to join party",
+    "target": "Attempting to join party"
+  },
+  "diesel.kairos.party.list.title": {
+    "comment": "",
+    "source": "Active",
+    "target": "Active"
+  },
+  "diesel.kairos.party.lobby.invitesModal.empty": {
+    "comment": "",
+    "source": "You don't have friends available to invite",
+    "target": "You don't have friends available to invite"
+  },
+  "diesel.kairos.party.lobby.invitesModal.friends.active": {
+    "comment": "",
+    "source": "Active",
+    "target": "Active"
+  },
+  "diesel.kairos.party.lobby.invitesModal.friends.inParty": {
+    "comment": "",
+    "source": "You are in a party together",
+    "target": "You are in a party together"
+  },
+  "diesel.kairos.party.lobby.invitesModal.friends.offline": {
+    "comment": "",
+    "source": "Offline",
+    "target": "Offline"
+  },
+  "diesel.kairos.party.lobby.invitesModal.noResults": {
+    "comment": "",
+    "source": "Sorry, no results were found",
+    "target": "Sorry, no results were found"
+  },
+  "diesel.kairos.party.lobby.invitesModal.subtitle": {
+    "comment": "",
+    "source": "Ring your friend’s Llama Bell to invite them to party",
+    "target": "Ring your friend’s Llama Bell to invite them to party"
+  },
+  "diesel.kairos.party.lobby.invitesModal.title": {
+    "comment": "",
+    "source": "Invite Friends",
+    "target": "Invite Friends"
+  },
+  "diesel.kairos.party.lobby.joining": {
+    "comment": "",
+    "source": "Joining...",
+    "target": "Joining..."
+  },
+  "diesel.kairos.party.lobby.joining.notification": {
+    "comment": "",
+    "source": "Joining {0}'s party",
+    "target": "Joining {0}'s party"
+  },
+  "diesel.kairos.party.lobby.joining.notification.pingback": {
+    "comment": "",
+    "source": "Couldn't join {0}'s party because they are offline",
+    "target": "Couldn't join {0}'s party because they are offline"
+  },
+  "diesel.kairos.party.lobby.leaving": {
+    "comment": "",
+    "source": "Leaving the party…",
+    "target": "Leaving the party…"
+  },
+  "diesel.kairos.party.lobby.limited.invite": {
+    "comment": "",
+    "source": "Invite friends",
+    "target": "Invite friends"
+  },
+  "diesel.kairos.party.lobby.limited.transfer": {
+    "comment": "",
+    "source": "Switch voice to this device",
+    "target": "Switch voice to this device"
+  },
+  "diesel.kairos.party.lobby.loading": {
+    "comment": "",
+    "source": "Connecting to the party…",
+    "target": "Connecting to the party…"
+  },
+  "diesel.kairos.party.lobby.novoice": {
+    "comment": "",
+    "source": "Voice communication not available",
+    "target": "Voice communication not available"
+  },
+  "diesel.kairos.party.lobby.user.mute": {
+    "comment": "",
+    "source": "Mute",
+    "target": "Mute"
+  },
+  "diesel.kairos.party.lobby.user.unmute": {
+    "comment": "",
+    "source": "Unmute",
+    "target": "Unmute"
+  },
+  "diesel.kairos.party.membersList.title": {
+    "comment": "",
+    "source": "Party Members",
+    "target": "Party Members"
+  },
+  "diesel.kairos.party.micDialog.button": {
+    "comment": "",
+    "source": "Enable Microphone",
+    "target": "Enable Microphone"
+  },
+  "diesel.kairos.party.micDialog.subtitle": {
+    "comment": "",
+    "source": "You need to enable your microphone to be able to invite or talk to your fellow partygoers.",
+    "target": "You need to enable your microphone to be able to invite or talk to your fellow partygoers."
+  },
+  "diesel.kairos.party.micDialog.title": {
+    "comment": "",
+    "source": "You can’t party without enabling your microphone",
+    "target": "You can’t party without enabling your microphone"
+  },
+  "diesel.kairos.party.party": {
+    "comment": "",
+    "source": "Party",
+    "target": "Party"
+  },
+  "diesel.kairos.party.permissions.headline": {
+    "comment": "",
+    "source": "You can't party without being able to talk to your fellow partygoers.",
+    "target": "You can't party without being able to talk to your fellow partygoers."
+  },
+  "diesel.kairos.party.permissions.microphone": {
+    "comment": "",
+    "source": "Enable your microphone",
+    "target": "Enable your microphone"
+  },
+  "diesel.kairos.party.playgrounds": {
+    "comment": "",
+    "source": "Playgrounds",
+    "target": "Playgrounds"
+  },
+  "diesel.kairos.party.reconnected": {
+    "comment": "",
+    "source": "And we're back!",
+    "target": "And we're back!"
+  },
+  "diesel.kairos.party.reconnecting": {
+    "comment": "",
+    "source": "Reconnecting...",
+    "target": "Reconnecting..."
+  },
+  "diesel.kairos.party.reconnectingVoice": {
+    "comment": "",
+    "source": "Reconnecting to voice chat...",
+    "target": "Reconnecting to voice chat..."
+  },
+  "diesel.kairos.party.requestNotificationAccess.actionText": {
+    "comment": "",
+    "source": "Enable notifications",
+    "target": "Enable notifications"
+  },
+  "diesel.kairos.party.requestNotificationAccess.description": {
+    "comment": "",
+    "source": "The Llama Bell calls friends to the party.  We use notifications to help bring friends together.",
+    "target": "The Llama Bell calls friends to the party.  We use notifications to help bring friends together."
+  },
+  "diesel.kairos.party.requestNotificationAccess.title": {
+    "comment": "",
+    "source": "Don't miss out on parties",
+    "target": "Don't miss out on parties"
+  },
+  "diesel.kairos.party.squad": {
+    "comment": "",
+    "source": "Squad",
+    "target": "Squad"
+  },
+  "diesel.kairos.party.unavailable.PSN": {
+    "comment": "",
+    "source": "Using PSN voice service",
+    "target": "Using PSN voice service"
+  },
+  "diesel.kairos.party.unavailable.SWT": {
+    "comment": "",
+    "source": "Using Nintendo voice service",
+    "target": "Using Nintendo voice service"
+  },
+  "diesel.kairos.party.unavailable.XBL": {
+    "comment": "",
+    "source": "Using Xbox voice service",
+    "target": "Using Xbox voice service"
+  },
+  "diesel.kairos.party.unavailable.bullet1": {
+    "comment": "",
+    "source": "Leave their console-only voice chat",
+    "target": "Leave their console-only voice chat"
+  },
+  "diesel.kairos.party.unavailable.bullet2": {
+    "comment": "",
+    "source": "Enable voice chat in the Fortnite Settings menu",
+    "target": "Enable voice chat in the Fortnite Settings menu"
+  },
+  "diesel.kairos.party.unavailable.bullet3": {
+    "comment": "",
+    "source": "Join the Fortnite Party Voice Chat",
+    "target": "Join the Fortnite Party Voice Chat"
+  },
+  "diesel.kairos.party.unavailable.bullet4": {
+    "comment": "",
+    "source": "End the game they are currently playing",
+    "target": "End the game they are currently playing"
+  },
+  "diesel.kairos.party.unavailable.button": {
+    "comment": "",
+    "source": "{0} can't hear you right now",
+    "target": "{0} can't hear you right now"
+  },
+  "diesel.kairos.party.unavailable.button2": {
+    "comment": "",
+    "source": "How to fix this",
+    "target": "How to fix this"
+  },
+  "diesel.kairos.party.unavailable.differentChannel": {
+    "comment": "",
+    "source": "{0} is busy chatting with their squad in Game Chat.",
+    "target": "{0} is busy chatting with their squad in Game Chat."
+  },
+  "diesel.kairos.party.unavailable.friendLabel": {
+    "comment": "",
+    "source": "Participants not in party chat",
+    "target": "Participants not in party chat"
+  },
+  "diesel.kairos.party.unavailable.heading": {
+    "comment": "",
+    "source": "Members of your party can't hear you.",
+    "target": "Members of your party can't hear you."
+  },
+  "diesel.kairos.party.unavailable.none": {
+    "comment": "",
+    "source": "Voice channel off",
+    "target": "Voice channel off"
+  },
+  "diesel.kairos.party.unavailable.sub1": {
+    "comment": "",
+    "source": "Your friends are currently in a console-only voice chat, chatting in the Game Chat OR have voice chat disabled. In order for them to join the Fortnite Party Chat, they must:",
+    "target": "Your friends are currently in a console-only voice chat, chatting in the Game Chat OR have voice chat disabled. In order for them to join the Fortnite Party Chat, they must:"
+  },
+  "diesel.kairos.party.unavailable.sub2": {
+    "comment": "",
+    "source": "In order for your friends to join the Fortnite Party Voice Channel, they must:",
+    "target": "In order for your friends to join the Fortnite Party Voice Channel, they must:"
+  },
+  "diesel.kairos.party.unavailable.title": {
+    "comment": "",
+    "source": "Help",
+    "target": "Help"
+  },
+  "diesel.kairos.platform.nintendo": {
+    "comment": "",
+    "source": "Nintendo",
+    "target": "Nintendo"
+  },
+  "diesel.kairos.platform.other": {
+    "comment": "",
+    "source": "Other",
+    "target": "Other"
+  },
+  "diesel.kairos.platform.psn": {
+    "comment": "",
+    "source": "Playstation",
+    "target": "Playstation"
+  },
+  "diesel.kairos.platform.xbl": {
+    "comment": "",
+    "source": "Xbox",
+    "target": "Xbox"
+  },
+  "diesel.kairos.profile.accounts": {
+    "comment": "",
+    "source": "Connected accounts",
+    "target": "Connected accounts"
+  },
+  "diesel.kairos.profile.arMode": {
+    "comment": "",
+    "source": "Fortnite AR",
+    "target": "Fortnite AR"
+  },
+  "diesel.kairos.profile.edit": {
+    "comment": "",
+    "source": "Edit Profile",
+    "target": "Edit Profile"
+  },
+  "diesel.kairos.profile.edit.cancel": {
+    "comment": "",
+    "source": "Cancel",
+    "target": "Cancel"
+  },
+  "diesel.kairos.profile.edit.done": {
+    "comment": "",
+    "source": "Done",
+    "target": "Done"
+  },
+  "diesel.kairos.profile.edit.error": {
+    "comment": "",
+    "source": "There was a problem saving your changes",
+    "target": "There was a problem saving your changes"
+  },
+  "diesel.kairos.profile.email": {
+    "comment": "",
+    "source": "Email",
+    "target": "Email"
+  },
+  "diesel.kairos.profile.info": {
+    "comment": "",
+    "source": "Private Info",
+    "target": "Private Info"
+  },
+  "diesel.kairos.profile.info.edit": {
+    "comment": "",
+    "source": "Edit information",
+    "target": "Edit information"
+  },
+  "diesel.kairos.profile.logout": {
+    "comment": "",
+    "source": "Log out",
+    "target": "Log out"
+  },
+  "diesel.kairos.profile.profile": {
+    "comment": "",
+    "source": "Profile",
+    "target": "Profile"
+  },
+  "diesel.kairos.profile.selectAvatar": {
+    "comment": "",
+    "source": "Select an avatar",
+    "target": "Select an avatar"
+  },
+  "diesel.kairos.profile.yourHighlights": {
+    "comment": "",
+    "source": "Your Highlights",
+    "target": "Your Highlights"
+  },
+  "diesel.kairos.report.reason.primary.harassment": {
+    "comment": "",
+    "source": "Harassment",
+    "target": "Harassment"
+  },
+  "diesel.kairos.report.reason.primary.offensive": {
+    "comment": "",
+    "source": "Offensive Name",
+    "target": "Offensive Name"
+  },
+  "diesel.kairos.report.reason.secondary.harassment.annoy": {
+    "comment": "",
+    "source": "They are annoying me",
+    "target": "They are annoying me"
+  },
+  "diesel.kairos.report.reason.secondary.harassment.language": {
+    "comment": "",
+    "source": "Inappropriate Language",
+    "target": "Inappropriate Language"
+  },
+  "diesel.kairos.report.reason.secondary.harassment.sell": {
+    "comment": "",
+    "source": "Trying to sell me something",
+    "target": "Trying to sell me something"
+  },
+  "diesel.kairos.report.reason.secondary.harassment.threats": {
+    "comment": "",
+    "source": "Threats",
+    "target": "Threats"
+  },
+  "diesel.kairos.reportbug.description": {
+    "comment": "",
+    "source": "Please enter steps to reproduce",
+    "target": "Please enter steps to reproduce"
+  },
+  "diesel.kairos.reportbug.submit": {
+    "comment": "",
+    "source": "Submit Bug Report",
+    "target": "Submit Bug Report"
+  },
+  "diesel.kairos.reportbug.thanks.back": {
+    "comment": "",
+    "source": "Back",
+    "target": "Back"
+  },
+  "diesel.kairos.reportbug.thanks.description": {
+    "comment": "",
+    "source": "Thanks for your report. We're looking into it!",
+    "target": "Thanks for your report. We're looking into it!"
+  },
+  "diesel.kairos.reportbug.thanks.title": {
+    "comment": "",
+    "source": "Report Submitted",
+    "target": "Report Submitted"
+  },
+  "diesel.kairos.reportbug.title": {
+    "comment": "",
+    "source": "Report a Bug",
+    "target": "Report a Bug"
+  },
+  "diesel.kairos.reportplayer": {
+    "comment": "",
+    "source": "Report",
+    "target": "Report"
+  },
+  "diesel.kairos.reportplayer.abusecomunication": {
+    "comment": "",
+    "source": "Communication abuse",
+    "target": "Communication abuse"
+  },
+  "diesel.kairos.reportplayer.abuseharassment": {
+    "comment": "",
+    "source": "Harassment or threats",
+    "target": "Harassment or threats"
+  },
+  "diesel.kairos.reportplayer.abuseoffensivename": {
+    "comment": "",
+    "source": "Inappropriate profile",
+    "target": "Inappropriate profile"
+  },
+  "diesel.kairos.reportplayer.abuseother": {
+    "comment": "",
+    "source": "Other",
+    "target": "Other"
+  },
+  "diesel.kairos.reportplayer.block": {
+    "comment": "",
+    "source": "Do you want to block {0}?",
+    "target": "Do you want to block {0}?"
+  },
+  "diesel.kairos.reportplayer.block.no": {
+    "comment": "",
+    "source": "No",
+    "target": "No"
+  },
+  "diesel.kairos.reportplayer.block.yes": {
+    "comment": "",
+    "source": "Yes, block",
+    "target": "Yes, block"
+  },
+  "diesel.kairos.reportplayer.conduct.about": {
+    "comment": "",
+    "source": "You are about to report",
+    "target": "You are about to report"
+  },
+  "diesel.kairos.reportplayer.conduct.continue": {
+    "comment": "",
+    "source": "Continue",
+    "target": "Continue"
+  },
+  "diesel.kairos.reportplayer.conduct.desc": {
+    "comment": "",
+    "source": "Read our Community Rules to learn more about reporting violations of our rules.",
+    "target": "Read our Community Rules to learn more about reporting violations of our rules."
+  },
+  "diesel.kairos.reportplayer.conduct.title": {
+    "comment": "",
+    "source": "Community Rules",
+    "target": "Community Rules"
+  },
+  "diesel.kairos.reportplayer.friendslist.abusecomunication": {
+    "comment": "",
+    "source": "Who has abusive language?",
+    "target": "Who has abusive language?"
+  },
+  "diesel.kairos.reportplayer.friendslist.abuseharassment": {
+    "comment": "",
+    "source": "Who is harassing players?",
+    "target": "Who is harassing players?"
+  },
+  "diesel.kairos.reportplayer.friendslist.abuseoffensivename": {
+    "comment": "",
+    "source": "Who has an offensive name?",
+    "target": "Who has an offensive name?"
+  },
+  "diesel.kairos.reportplayer.friendslist.select": {
+    "comment": "",
+    "source": "Select the player's name",
+    "target": "Select the player's name"
+  },
+  "diesel.kairos.reportplayer.know": {
+    "comment": "",
+    "source": "Do you know {0}?",
+    "target": "Do you know {0}?"
+  },
+  "diesel.kairos.reportplayer.know.no": {
+    "comment": "",
+    "source": "No",
+    "target": "No"
+  },
+  "diesel.kairos.reportplayer.know.yes": {
+    "comment": "",
+    "source": "Yes",
+    "target": "Yes"
+  },
+  "diesel.kairos.reportplayer.learnmore": {
+    "comment": "",
+    "source": "Learn more about reporting violations of our rules.",
+    "target": "Learn more about reporting violations of our rules."
+  },
+  "diesel.kairos.reportplayer.reason": {
+    "comment": "",
+    "source": "What is the reason for reporting?",
+    "target": "What is the reason for reporting?"
+  },
+  "diesel.kairos.reportplayer.reason.harassment": {
+    "comment": "",
+    "source": "What kind of harassment?",
+    "target": "What kind of harassment?"
+  },
+  "diesel.kairos.reportplayer.reporting": {
+    "comment": "",
+    "source": "Player Reporting",
+    "target": "Player Reporting"
+  },
+  "diesel.kairos.reportplayer.seen.inparty": {
+    "comment": "",
+    "source": "Party member",
+    "target": "Party member"
+  },
+  "diesel.kairos.reportplayer.sending": {
+    "comment": "",
+    "source": "Sending...",
+    "target": "Sending..."
+  },
+  "diesel.kairos.reportplayer.sendingerror": {
+    "comment": "",
+    "source": "There was an error sending your report",
+    "target": "There was an error sending your report"
+  },
+  "diesel.kairos.reportplayer.sendreport": {
+    "comment": "",
+    "source": "Send Report",
+    "target": "Send Report"
+  },
+  "diesel.kairos.reportplayer.sendreport.header": {
+    "comment": "",
+    "source": "You are reporting {0} for {1}.",
+    "target": "You are reporting {0} for {1}."
+  },
+  "diesel.kairos.reportplayer.sendreport.placeholder": {
+    "comment": "",
+    "source": "Any additional info? Let us know more (optional)...",
+    "target": "Any additional info? Let us know more (optional)..."
+  },
+  "diesel.kairos.reportplayer.sent.desc1": {
+    "comment": "",
+    "source": "Our team will investigate.",
+    "target": "Our team will investigate."
+  },
+  "diesel.kairos.reportplayer.sent.desc2": {
+    "comment": "",
+    "source": "Thanks for helping keep Fortnite a fun, friendly and inclusive community.",
+    "target": "Thanks for helping keep Fortnite a fun, friendly and inclusive community."
+  },
+  "diesel.kairos.reportplayer.sent.reportrecieved": {
+    "comment": "",
+    "source": "Report Received",
+    "target": "Report Received"
+  },
+  "diesel.kairos.requests.networkerror": {
+    "comment": "",
+    "source": "No internet connection detected. Please check your connection and try again.",
+    "target": "No internet connection detected. Please check your connection and try again."
+  },
+  "diesel.kairos.requests.noauth": {
+    "comment": "",
+    "source": "An unknown error occurred, wait a few seconds and try again.",
+    "target": "An unknown error occurred, wait a few seconds and try again."
+  },
+  "diesel.kairos.requests.throttled": {
+    "comment": "",
+    "source": "Put the brakes on and try again in a few minutes!",
+    "target": "Put the brakes on and try again in a few minutes!"
+  },
+  "diesel.kairos.requests.unknownerror": {
+    "comment": "",
+    "source": "An unknown error occurred, wait a few seconds and try again.",
+    "target": "An unknown error occurred, wait a few seconds and try again."
+  },
+  "diesel.kairos.returnToGame": {
+    "comment": "",
+    "source": "Return to game",
+    "target": "Return to game"
+  },
+  "diesel.kairos.sampleMessage": {
+    "comment": "",
+    "source": "This is a test message",
+    "target": "This is a test message"
+  },
+  "diesel.kairos.sectionList.showLess": {
+    "comment": "",
+    "source": "- Show less",
+    "target": "- Show less"
+  },
+  "diesel.kairos.sectionList.showMore": {
+    "comment": "",
+    "source": "+ Show all",
+    "target": "+ Show all"
+  },
+  "diesel.kairos.sectionList.tryAgain": {
+    "comment": "",
+    "source": "Try again",
+    "target": "Try again"
+  },
+  "diesel.kairos.settings": {
+    "comment": "",
+    "source": "Settings",
+    "target": "Settings"
+  },
+  "diesel.kairos.settings.about": {
+    "comment": "",
+    "source": "About",
+    "target": "About"
+  },
+  "diesel.kairos.settings.audio": {
+    "comment": "",
+    "source": "Audio settings",
+    "target": "Audio settings"
+  },
+  "diesel.kairos.settings.audio.echo": {
+    "comment": "",
+    "source": "Echo Cancellation",
+    "target": "Echo Cancellation"
+  },
+  "diesel.kairos.settings.audio.echo.error": {
+    "comment": "",
+    "source": "We couldn't update your Echo Cancellation setting. Try again.",
+    "target": "We couldn't update your Echo Cancellation setting. Try again."
+  },
+  "diesel.kairos.settings.blockedlist": {
+    "comment": "",
+    "source": "Blocked list",
+    "target": "Blocked list"
+  },
+  "diesel.kairos.settings.blockedlist.title": {
+    "comment": "",
+    "source": "Blocked users",
+    "target": "Blocked users"
+  },
+  "diesel.kairos.settings.debugMenu": {
+    "comment": "",
+    "source": "Debug menu",
+    "target": "Debug menu"
+  },
+  "diesel.kairos.settings.deleteaccount": {
+    "comment": "",
+    "source": "Delete account",
+    "target": "Delete account"
+  },
+  "diesel.kairos.settings.deleteaccount.caution": {
+    "comment": "",
+    "source": "Caution",
+    "target": "Caution"
+  },
+  "diesel.kairos.settings.deleteaccount.confirm": {
+    "comment": "",
+    "source": "Once deleted your account cannot be recovered, are you sure you want to delete?",
+    "target": "Once deleted your account cannot be recovered, are you sure you want to delete?"
+  },
+  "diesel.kairos.settings.downloads.autodownloads": {
+    "comment": "",
+    "source": "Auto Update Settings",
+    "target": "Auto Update Settings"
+  },
+  "diesel.kairos.settings.downloads.availdownloads": {
+    "comment": "",
+    "source": "Available Downloads",
+    "target": "Available Downloads"
+  },
+  "diesel.kairos.settings.downloads.downloads": {
+    "comment": "",
+    "source": "Downloads & Storage",
+    "target": "Downloads & Storage"
+  },
+  "diesel.kairos.settings.downloads.editupdates": {
+    "comment": "",
+    "source": "Edit updates preferences",
+    "target": "Edit updates preferences"
+  },
+  "diesel.kairos.settings.downloads.never": {
+    "comment": "",
+    "source": "Never",
+    "target": "Never"
+  },
+  "diesel.kairos.settings.downloads.no": {
+    "comment": "",
+    "source": "No",
+    "target": "No"
+  },
+  "diesel.kairos.settings.downloads.uninstall": {
+    "comment": "",
+    "source": "Uninstall Fortnite",
+    "target": "Uninstall Fortnite"
+  },
+  "diesel.kairos.settings.downloads.uninstallinfo": {
+    "comment": "",
+    "source": "If you uninstall Fortnite, you won’t be able to play the game on this device until you reinstall. Uninstalling Fortnite will also turn off automatic game updates. This will take effect the next time you restart the app.",
+    "target": "If you uninstall Fortnite, you won’t be able to play the game on this device until you reinstall. Uninstalling Fortnite will also turn off automatic game updates. This will take effect the next time you restart the app."
+  },
+  "diesel.kairos.settings.downloads.update": {
+    "comment": "",
+    "source": "Update Fortnite",
+    "target": "Update Fortnite"
+  },
+  "diesel.kairos.settings.downloads.updateSettings": {
+    "comment": "",
+    "source": "change settings and update",
+    "target": "change settings and update"
+  },
+  "diesel.kairos.settings.downloads.updates": {
+    "comment": "",
+    "source": "Game Updates",
+    "target": "Game Updates"
+  },
+  "diesel.kairos.settings.downloads.updatesavail": {
+    "comment": "",
+    "source": "Updates available",
+    "target": "Updates available"
+  },
+  "diesel.kairos.settings.downloads.wifi": {
+    "comment": "",
+    "source": "Wi-Fi",
+    "target": "Wi-Fi"
+  },
+  "diesel.kairos.settings.downloads.wificell": {
+    "comment": "",
+    "source": "Wi-Fi & Cellular",
+    "target": "Wi-Fi & Cellular"
+  },
+  "diesel.kairos.settings.downloads.yes": {
+    "comment": "",
+    "source": "Yes",
+    "target": "Yes"
+  },
+  "diesel.kairos.settings.downloads.yesuninstall": {
+    "comment": "",
+    "source": "Yes, uninstall Fortnite",
+    "target": "Yes, uninstall Fortnite"
+  },
+  "diesel.kairos.settings.friends": {
+    "comment": "",
+    "source": "Friends",
+    "target": "Friends"
+  },
+  "diesel.kairos.settings.general": {
+    "comment": "",
+    "source": "General",
+    "target": "General"
+  },
+  "diesel.kairos.settings.help": {
+    "comment": "",
+    "source": "Help",
+    "target": "Help"
+  },
+  "diesel.kairos.settings.loggedinas": {
+    "comment": "",
+    "source": "Logged in as {0}",
+    "target": "Logged in as {0}"
+  },
+  "diesel.kairos.settings.logout": {
+    "comment": "",
+    "source": "Log Out",
+    "target": "Log Out"
+  },
+  "diesel.kairos.settings.nativeAppVersion": {
+    "comment": "",
+    "source": "PartyHub App Version:",
+    "target": "PartyHub App Version:"
+  },
+  "diesel.kairos.settings.notifications": {
+    "comment": "",
+    "source": "Notifications",
+    "target": "Notifications"
+  },
+  "diesel.kairos.settings.notifications.friendnotifications": {
+    "comment": "",
+    "source": "New friend requests",
+    "target": "New friend requests"
+  },
+  "diesel.kairos.settings.notifications.friendnotificationsdesc": {
+    "comment": "",
+    "source": "\"Mooney wants to be your friend.\"",
+    "target": "\"Mooney wants to be your friend.\""
+  },
+  "diesel.kairos.settings.notifications.llamabell": {
+    "comment": "",
+    "source": "Llama bell rings",
+    "target": "Llama bell rings"
+  },
+  "diesel.kairos.settings.notifications.llamabelldesc": {
+    "comment": "",
+    "source": "\"♩ mooney invited you to come party ♩\"",
+    "target": "\"♩ mooney invited you to come party ♩\""
+  },
+  "diesel.kairos.settings.notifications.marketing": {
+    "comment": "",
+    "source": "Marketing News",
+    "target": "Marketing News"
+  },
+  "diesel.kairos.settings.notifications.marketingdesc": {
+    "comment": "",
+    "source": "\"The party is happening this weekend!\"",
+    "target": "\"The party is happening this weekend!\""
+  },
+  "diesel.kairos.settings.notifications.newmessages": {
+    "comment": "",
+    "source": "New messages",
+    "target": "New messages"
+  },
+  "diesel.kairos.settings.notifications.newmessagesdesc": {
+    "comment": "",
+    "source": "\"Mooney: Hey it's ya boy, Mooney!\"",
+    "target": "\"Mooney: Hey it's ya boy, Mooney!\""
+  },
+  "diesel.kairos.settings.notifications.notifymeabout": {
+    "comment": "",
+    "source": "Notify me about",
+    "target": "Notify me about"
+  },
+  "diesel.kairos.settings.notifications.partyactivity": {
+    "comment": "",
+    "source": "Party activity",
+    "target": "Party activity"
+  },
+  "diesel.kairos.settings.notifications.partyactivitydesc": {
+    "comment": "",
+    "source": "\"Mooney has joined the party\"",
+    "target": "\"Mooney has joined the party\""
+  },
+  "diesel.kairos.settings.other": {
+    "comment": "",
+    "source": "Other",
+    "target": "Other"
+  },
+  "diesel.kairos.settings.partyLocked.private": {
+    "comment": "",
+    "source": "Party Privacy is Private",
+    "target": "Party Privacy is Private"
+  },
+  "diesel.kairos.settings.partyLocked.public": {
+    "comment": "",
+    "source": "Party Privacy is Public",
+    "target": "Party Privacy is Public"
+  },
+  "diesel.kairos.settings.permissions": {
+    "comment": "",
+    "source": "Permissions",
+    "target": "Permissions"
+  },
+  "diesel.kairos.settings.permissions.connect": {
+    "comment": "",
+    "source": "Connect",
+    "target": "Connect"
+  },
+  "diesel.kairos.settings.permissions.externalaccounts": {
+    "comment": "",
+    "source": "External accounts",
+    "target": "External accounts"
+  },
+  "diesel.kairos.settings.permissions.revoke": {
+    "comment": "",
+    "source": "Revoke",
+    "target": "Revoke"
+  },
+  "diesel.kairos.settings.privacy": {
+    "comment": "",
+    "source": "Privacy",
+    "target": "Privacy"
+  },
+  "diesel.kairos.settings.privacy.blockedlist": {
+    "comment": "",
+    "source": "Blocked list",
+    "target": "Blocked list"
+  },
+  "diesel.kairos.settings.privacy.blockedlist.error": {
+    "comment": "",
+    "source": "Error loading your blocked list...",
+    "target": "Error loading your blocked list..."
+  },
+  "diesel.kairos.settings.privacy.blockedlist.noblocklist": {
+    "comment": "",
+    "source": "You haven’t blocked anyone.",
+    "target": "You haven’t blocked anyone."
+  },
+  "diesel.kairos.settings.privacy.blockedlist.noresults": {
+    "comment": "",
+    "source": "Sorry, no results found.",
+    "target": "Sorry, no results found."
+  },
+  "diesel.kairos.settings.privacy.blockedlist.search": {
+    "comment": "",
+    "source": "Search",
+    "target": "Search"
+  },
+  "diesel.kairos.settings.privacy.blockedlistfriend": {
+    "comment": "",
+    "source": "{0} user",
+    "target": "{0} user"
+  },
+  "diesel.kairos.settings.privacy.blockedlistfriends": {
+    "comment": "",
+    "source": "{0} users",
+    "target": "{0} users"
+  },
+  "diesel.kairos.settings.privacy.deleteaccount": {
+    "comment": "",
+    "source": "Delete account",
+    "target": "Delete account"
+  },
+  "diesel.kairos.settings.privacy.gamescurrent": {
+    "comment": "",
+    "source": "Games I'm currently playing",
+    "target": "Games I'm currently playing"
+  },
+  "diesel.kairos.settings.privacy.gamescurrentdesc": {
+    "comment": "",
+    "source": "Playing squads with {0} others",
+    "target": "Playing squads with {0} others"
+  },
+  "diesel.kairos.settings.privacy.loading": {
+    "comment": "",
+    "source": "Loading...",
+    "target": "Loading..."
+  },
+  "diesel.kairos.settings.privacy.myfriendscan": {
+    "comment": "",
+    "source": "My friends can see",
+    "target": "My friends can see"
+  },
+  "diesel.kairos.settings.privacy.whenbecameactive": {
+    "comment": "",
+    "source": "When I became active",
+    "target": "When I became active"
+  },
+  "diesel.kairos.settings.privacy.whenbecameactivedesc": {
+    "comment": "",
+    "source": "\"{0} is now active\"",
+    "target": "\"{0} is now active\""
+  },
+  "diesel.kairos.settings.privacy.whenlastactive": {
+    "comment": "",
+    "source": "When I was last active",
+    "target": "When I was last active"
+  },
+  "diesel.kairos.settings.privacy.whenlastactivedesc": {
+    "comment": "",
+    "source": "Last active {0} ago",
+    "target": "Last active {0} ago"
+  },
+  "diesel.kairos.settings.privateMode.subTitle": {
+    "comment": "",
+    "source": "Automatically locks the party whenever you are on your own.",
+    "target": "Automatically locks the party whenever you are on your own."
+  },
+  "diesel.kairos.settings.privateMode.title": {
+    "comment": "",
+    "source": "Private mode",
+    "target": "Private mode"
+  },
+  "diesel.kairos.settings.rateus": {
+    "comment": "",
+    "source": "Rate Us",
+    "target": "Rate Us"
+  },
+  "diesel.kairos.settings.safetySecurity": {
+    "comment": "",
+    "source": "Safety and Security",
+    "target": "Safety and Security"
+  },
+  "diesel.kairos.settings.showMore": {
+    "comment": "",
+    "source": "Show More",
+    "target": "Show More"
+  },
+  "diesel.kairos.settings.subscription.friend.description": {
+    "comment": "",
+    "source": "Get notified when they're playing Fortnite.",
+    "target": "Get notified when they're playing Fortnite."
+  },
+  "diesel.kairos.settings.subscription.friend.title": {
+    "comment": "",
+    "source": "Subscribe",
+    "target": "Subscribe"
+  },
+  "diesel.kairos.settings.subscription.notify.description": {
+    "comment": "",
+    "source": "Let your friends know when you are playing Fortnite.",
+    "target": "Let your friends know when you are playing Fortnite."
+  },
+  "diesel.kairos.settings.subscription.notify.title": {
+    "comment": "",
+    "source": "Notify Friends",
+    "target": "Notify Friends"
+  },
+  "diesel.kairos.settings.unsure": {
+    "comment": "",
+    "source": "Are you sure?",
+    "target": "Are you sure?"
+  },
+  "diesel.kairos.settings.version": {
+    "comment": "",
+    "source": "Version",
+    "target": "Version"
+  },
+  "diesel.kairos.settings.webAppVersion": {
+    "comment": "",
+    "source": "PartyHub Web Version:",
+    "target": "PartyHub Web Version:"
+  },
+  "diesel.kairos.settings.webHostname": {
+    "comment": "",
+    "source": "Host:",
+    "target": "Host:"
+  },
+  "diesel.kairos.shareApp": {
+    "comment": "",
+    "source": "Share The App",
+    "target": "Share The App"
+  },
+  "diesel.kairos.shareModal.sendMessage.text.sent": {
+    "comment": "",
+    "source": "Sent",
+    "target": "Sent"
+  },
+  "diesel.kairos.shareModal.sendMessage.title": {
+    "comment": "",
+    "source": "Send message to...",
+    "target": "Send message to..."
+  },
+  "diesel.kairos.shareModal.textMessage.emptyPlaceholder": {
+    "comment": "",
+    "source": "Tap here to type",
+    "target": "Tap here to type"
+  },
+  "diesel.kairos.shareModal.textMessage.initialPlaceholder": {
+    "comment": "",
+    "source": "Type...",
+    "target": "Type..."
+  },
+  "diesel.kairos.shareModal.typeMenu.emote": {
+    "comment": "",
+    "source": "emote",
+    "target": "emote"
+  },
+  "diesel.kairos.shareModal.typeMenu.type": {
+    "comment": "",
+    "source": "type",
+    "target": "type"
+  },
+  "diesel.kairos.socialban.warning.confirm": {
+    "comment": "",
+    "source": "Ok, I'll stop",
+    "target": "Ok, I'll stop"
+  },
+  "diesel.kairos.socialban.warning.description1": {
+    "comment": "",
+    "source": "Some of your recent behavior may result in a ban from social features.",
+    "target": "Some of your recent behavior may result in a ban from social features."
+  },
+  "diesel.kairos.socialban.warning.description2": {
+    "comment": "",
+    "source": "If your behavior persists you will be banned from using chat and adding friends.",
+    "target": "If your behavior persists you will be banned from using chat and adding friends."
+  },
+  "diesel.kairos.socialban.warning.title": {
+    "comment": "",
+    "source": "Behavior Warning",
+    "target": "Behavior Warning"
+  },
+  "diesel.kairos.threadedMessages.messageSummary.voice": {
+    "comment": "",
+    "source": "Voice Message",
+    "target": "Voice Message"
+  },
+  "diesel.kairos.threadedMessages.messageSummary.you": {
+    "comment": "",
+    "source": "You",
+    "target": "You"
+  },
+  "diesel.kairos.universalsearch.group.active": {
+    "comment": "",
+    "source": "Active Friends",
+    "target": "Active Friends"
+  },
+  "diesel.kairos.universalsearch.group.add": {
+    "comment": "",
+    "source": "Add Friends",
+    "target": "Add Friends"
+  },
+  "diesel.kairos.universalsearch.group.other": {
+    "comment": "",
+    "source": "Offline Friends",
+    "target": "Offline Friends"
+  },
+  "diesel.kairos.universalsearch.searchterm.min": {
+    "comment": "",
+    "source": "Type at least {0} characters...",
+    "target": "Type at least {0} characters..."
+  },
+  "diesel.kairos.userStatus.empty": {
+    "comment": "",
+    "source": "What's your\nstatus?",
+    "target": "What's your\nstatus?"
+  },
+  "diesel.kairos.userStatus.playText": {
+    "comment": "",
+    "source": "Launch Fortnite",
+    "target": "Launch Fortnite"
+  },
+  "epic.kairos.home.title": {
+    "comment": "",
+    "source": "Fortnite Party Hub",
+    "target": "Fortnite Party Hub"
+  }
+}
